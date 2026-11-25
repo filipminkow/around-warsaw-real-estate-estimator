@@ -1,0 +1,2001 @@
+metraz,pokoje,wiek_budynku,odleglosc_pkp_km,miasto,cena_pln
+59.3,2,41,0.98,Blonie,618519.0
+96.8,2,20,4.47,Pruszkow,912051.0
+82.6,4,36,2.36,Minsk Mazowiecki,791367.0
+73.9,2,26,3.58,Piaseczno,903426.0
+45.1,2,28,4.92,Minsk Mazowiecki,486682.0
+45.1,3,19,0.35,Minsk Mazowiecki,662159.0
+38.8,2,24,0.57,Minsk Mazowiecki,640984.0
+91.3,3,5,3.63,Minsk Mazowiecki,835470.0
+74.1,1,35,1.48,Minsk Mazowiecki,719401.0
+81.0,2,1,1.0,Pruszkow,935012.0
+36.3,1,21,0.29,Piaseczno,685650.0
+98.0,1,31,0.21,Minsk Mazowiecki,899370.0
+89.1,4,15,3.89,Minsk Mazowiecki,867803.0
+48.8,2,17,0.76,Minsk Mazowiecki,672742.0
+46.8,3,4,2.39,Minsk Mazowiecki,672511.0
+46.9,2,35,3.07,Grodzisk Mazowiecki,577536.0
+54.8,2,29,2.2,Grodzisk Mazowiecki,643579.0
+69.1,4,44,0.23,Blonie,705770.0
+63.1,1,18,3.94,Minsk Mazowiecki,655673.0
+53.9,3,22,0.15,Blonie,736171.0
+74.8,4,33,3.83,Pruszkow,773264.0
+44.1,3,12,4.48,Blonie,552276.0
+54.0,4,42,2.22,Piaseczno,687289.0
+58.8,1,28,2.72,Grodzisk Mazowiecki,647303.0
+64.6,2,35,2.44,Grodzisk Mazowiecki,699183.0
+86.0,2,21,2.01,Minsk Mazowiecki,820413.0
+48.0,3,46,4.45,Minsk Mazowiecki,492352.0
+68.4,4,35,4.48,Pruszkow,763946.0
+73.5,2,8,1.75,Pruszkow,875218.0
+38.0,3,38,3.11,Piaseczno,569446.0
+74.5,2,18,4.64,Minsk Mazowiecki,656087.0
+46.1,3,37,4.81,Minsk Mazowiecki,478077.0
+39.2,2,5,2.59,Pruszkow,619758.0
+96.7,4,46,2.32,Pruszkow,934278.0
+97.8,3,14,1.47,Pruszkow,1023743.0
+87.5,2,19,4.8,Grodzisk Mazowiecki,817623.0
+54.8,2,8,0.8,Blonie,697004.0
+41.3,2,31,2.94,Blonie,568518.0
+79.5,2,3,1.48,Minsk Mazowiecki,794692.0
+63.6,2,49,1.47,Grodzisk Mazowiecki,684401.0
+42.9,4,17,2.08,Pruszkow,688953.0
+67.2,3,4,4.99,Minsk Mazowiecki,664819.0
+37.2,3,19,0.37,Grodzisk Mazowiecki,643707.0
+94.1,2,22,2.93,Piaseczno,948561.0
+51.8,4,10,0.5,Grodzisk Mazowiecki,803134.0
+78.1,3,36,0.86,Minsk Mazowiecki,805538.0
+55.3,1,21,2.25,Blonie,581016.0
+68.8,3,3,2.6,Pruszkow,867326.0
+70.5,3,28,1.37,Piaseczno,855010.0
+47.0,1,43,1.65,Grodzisk Mazowiecki,531236.0
+98.0,2,33,0.53,Minsk Mazowiecki,912144.0
+85.4,2,12,1.59,Minsk Mazowiecki,871628.0
+96.1,2,41,4.84,Pruszkow,841068.0
+93.2,4,8,4.73,Minsk Mazowiecki,877209.0
+73.9,4,41,1.74,Minsk Mazowiecki,742905.0
+94.9,3,30,2.9,Pruszkow,946928.0
+40.8,2,6,4.56,Piaseczno,626603.0
+47.7,2,3,0.13,Blonie,688647.0
+37.9,3,18,4.07,Blonie,491271.0
+56.1,3,41,4.75,Grodzisk Mazowiecki,636883.0
+60.3,1,29,0.55,Piaseczno,816104.0
+52.6,3,30,0.89,Grodzisk Mazowiecki,702762.0
+88.9,4,34,4.81,Blonie,730094.0
+58.2,2,20,2.73,Pruszkow,718530.0
+53.3,1,30,0.17,Minsk Mazowiecki,698174.0
+70.3,3,18,1.36,Blonie,749112.0
+44.2,2,30,2.3,Piaseczno,646228.0
+87.1,2,31,3.5,Blonie,743458.0
+39.8,2,1,3.69,Piaseczno,666637.0
+99.1,2,9,4.98,Piaseczno,939601.0
+85.2,3,1,1.51,Piaseczno,1018706.0
+47.9,3,1,2.74,Grodzisk Mazowiecki,670270.0
+35.4,2,23,2.71,Pruszkow,623035.0
+88.0,4,16,2.09,Blonie,854712.0
+80.9,4,31,0.93,Pruszkow,959329.0
+82.4,4,15,4.89,Minsk Mazowiecki,762646.0
+85.1,2,15,4.28,Blonie,729088.0
+39.8,2,45,2.54,Pruszkow,539076.0
+58.3,4,38,3.06,Pruszkow,661657.0
+42.5,3,30,1.21,Minsk Mazowiecki,606858.0
+91.1,1,42,2.76,Piaseczno,833881.0
+75.5,1,23,3.51,Blonie,669462.0
+56.5,2,0,2.62,Blonie,693249.0
+39.1,4,10,4.95,Minsk Mazowiecki,552981.0
+55.2,3,20,3.1,Piaseczno,695250.0
+56.1,2,3,1.92,Blonie,690816.0
+82.4,2,6,3.88,Blonie,807215.0
+76.4,3,25,0.94,Blonie,778595.0
+92.7,4,46,1.98,Piaseczno,967207.0
+65.7,2,49,1.8,Minsk Mazowiecki,613402.0
+42.8,3,11,2.22,Blonie,604270.0
+81.4,4,30,3.93,Pruszkow,849438.0
+84.5,2,16,2.47,Piaseczno,942734.0
+71.5,3,32,3.99,Grodzisk Mazowiecki,727274.0
+85.1,2,10,2.92,Minsk Mazowiecki,787395.0
+67.1,3,27,1.78,Pruszkow,815797.0
+69.0,3,31,4.07,Blonie,687987.0
+62.8,3,0,1.27,Grodzisk Mazowiecki,753141.0
+36.7,3,46,1.2,Minsk Mazowiecki,548208.0
+42.0,2,27,2.57,Piaseczno,685451.0
+37.0,4,41,1.38,Grodzisk Mazowiecki,533561.0
+76.4,3,6,0.14,Grodzisk Mazowiecki,899079.0
+55.4,2,1,3.28,Pruszkow,757032.0
+68.1,3,41,2.6,Minsk Mazowiecki,651516.0
+94.0,3,23,2.28,Pruszkow,1009037.0
+51.2,2,3,4.84,Pruszkow,696267.0
+61.7,4,43,2.9,Blonie,584151.0
+84.1,4,18,4.33,Piaseczno,877408.0
+49.9,2,25,0.78,Grodzisk Mazowiecki,696595.0
+40.0,4,10,2.89,Minsk Mazowiecki,620220.0
+53.8,2,39,4.35,Piaseczno,691353.0
+45.5,2,49,2.96,Piaseczno,565304.0
+95.4,2,42,3.62,Minsk Mazowiecki,832577.0
+87.5,4,10,1.92,Piaseczno,984983.0
+76.2,3,44,0.55,Blonie,775710.0
+91.6,2,2,2.34,Piaseczno,1031170.0
+87.2,2,11,2.03,Blonie,754983.0
+47.1,3,2,4.35,Grodzisk Mazowiecki,654436.0
+93.0,1,41,1.3,Grodzisk Mazowiecki,898037.0
+70.1,4,26,4.84,Pruszkow,793276.0
+87.5,4,48,4.79,Blonie,772900.0
+93.2,3,1,1.31,Grodzisk Mazowiecki,1026355.0
+55.7,4,48,1.81,Piaseczno,713784.0
+42.2,2,15,4.49,Minsk Mazowiecki,548170.0
+49.8,4,1,4.84,Minsk Mazowiecki,603281.0
+62.8,3,29,2.27,Blonie,668673.0
+88.2,3,19,1.67,Pruszkow,986553.0
+90.9,2,37,2.68,Piaseczno,915942.0
+35.5,4,27,3.47,Blonie,531934.0
+68.2,2,24,1.44,Minsk Mazowiecki,810660.0
+62.1,2,31,3.71,Blonie,559679.0
+49.4,1,9,0.35,Piaseczno,763550.0
+42.8,3,41,0.34,Grodzisk Mazowiecki,633591.0
+56.9,3,39,1.99,Piaseczno,720304.0
+96.3,3,32,1.83,Grodzisk Mazowiecki,920629.0
+56.0,4,12,1.65,Grodzisk Mazowiecki,779775.0
+68.7,1,40,2.51,Grodzisk Mazowiecki,696187.0
+80.7,3,41,1.67,Blonie,769020.0
+58.6,2,46,1.04,Minsk Mazowiecki,639832.0
+98.2,4,36,1.62,Blonie,893884.0
+97.6,4,15,4.88,Minsk Mazowiecki,913836.0
+51.4,3,44,2.11,Piaseczno,735002.0
+67.3,3,21,2.28,Pruszkow,843464.0
+54.6,2,19,2.93,Piaseczno,687719.0
+53.5,2,49,4.92,Blonie,453034.0
+37.4,4,42,1.28,Blonie,536990.0
+74.6,2,26,3.44,Minsk Mazowiecki,681179.0
+67.7,2,40,3.61,Blonie,610273.0
+38.3,2,15,3.08,Grodzisk Mazowiecki,560567.0
+53.1,4,33,0.53,Blonie,702724.0
+94.0,2,31,3.42,Minsk Mazowiecki,798951.0
+50.6,2,25,0.41,Minsk Mazowiecki,693699.0
+44.4,3,24,3.02,Grodzisk Mazowiecki,567079.0
+66.8,4,1,3.72,Minsk Mazowiecki,732165.0
+99.1,2,11,1.13,Pruszkow,1031819.0
+50.7,2,39,4.22,Piaseczno,611536.0
+78.7,2,8,0.25,Blonie,782205.0
+84.5,2,11,4.23,Pruszkow,876379.0
+50.4,2,25,2.36,Blonie,630380.0
+82.3,3,8,1.17,Pruszkow,988238.0
+58.9,3,9,0.76,Blonie,731780.0
+76.1,3,31,4.77,Grodzisk Mazowiecki,683462.0
+76.2,2,33,0.46,Minsk Mazowiecki,736509.0
+69.8,4,47,1.08,Minsk Mazowiecki,689609.0
+40.9,2,19,1.8,Grodzisk Mazowiecki,599975.0
+89.3,4,38,3.14,Pruszkow,959807.0
+55.9,3,1,2.77,Piaseczno,718288.0
+47.1,2,0,0.72,Pruszkow,792007.0
+37.7,3,35,1.52,Minsk Mazowiecki,522769.0
+73.4,2,23,1.27,Piaseczno,864735.0
+79.0,3,26,1.15,Blonie,776369.0
+36.1,1,1,2.11,Piaseczno,619777.0
+68.3,2,30,3.55,Pruszkow,742069.0
+49.7,4,13,1.17,Grodzisk Mazowiecki,738484.0
+76.9,2,1,1.9,Blonie,831950.0
+46.3,4,28,2.02,Pruszkow,646643.0
+79.9,2,14,4.88,Blonie,734219.0
+60.1,3,11,4.78,Piaseczno,766454.0
+95.9,3,36,4.02,Minsk Mazowiecki,827535.0
+43.9,3,27,1.28,Pruszkow,674871.0
+57.2,2,19,0.43,Grodzisk Mazowiecki,752053.0
+42.4,2,38,1.65,Piaseczno,635087.0
+95.1,1,23,1.41,Pruszkow,989855.0
+92.0,2,20,2.58,Grodzisk Mazowiecki,873604.0
+51.8,3,9,3.91,Pruszkow,704241.0
+77.9,4,45,4.31,Piaseczno,743450.0
+88.1,4,13,4.24,Pruszkow,928059.0
+71.1,3,36,1.86,Blonie,688313.0
+69.4,3,17,3.47,Piaseczno,835174.0
+50.7,3,23,1.63,Pruszkow,751453.0
+41.1,2,13,0.4,Minsk Mazowiecki,613801.0
+93.3,4,33,3.54,Pruszkow,922036.0
+93.5,3,11,0.15,Blonie,964235.0
+76.2,3,21,2.1,Grodzisk Mazowiecki,832742.0
+57.0,2,5,1.71,Grodzisk Mazowiecki,761896.0
+57.7,2,35,3.5,Grodzisk Mazowiecki,633470.0
+82.2,2,44,3.85,Minsk Mazowiecki,686303.0
+93.3,4,35,1.59,Blonie,922550.0
+92.7,3,21,4.08,Piaseczno,953860.0
+85.7,2,13,1.54,Grodzisk Mazowiecki,937654.0
+76.7,4,15,2.29,Blonie,814401.0
+40.5,2,35,3.66,Pruszkow,567874.0
+45.5,2,24,3.5,Minsk Mazowiecki,534484.0
+93.4,1,31,4.94,Blonie,711387.0
+74.4,3,32,1.2,Blonie,789660.0
+35.6,4,44,3.35,Piaseczno,581038.0
+41.6,2,35,3.09,Blonie,475453.0
+78.1,4,19,4.58,Piaseczno,823021.0
+35.3,2,17,0.87,Minsk Mazowiecki,619853.0
+45.5,4,37,3.78,Minsk Mazowiecki,540479.0
+70.7,3,2,2.88,Pruszkow,825998.0
+80.0,4,22,1.45,Piaseczno,953943.0
+77.4,1,31,2.42,Piaseczno,818272.0
+49.6,4,44,1.74,Grodzisk Mazowiecki,628142.0
+81.3,3,15,2.94,Grodzisk Mazowiecki,859388.0
+50.4,2,4,4.46,Pruszkow,662614.0
+56.2,4,3,2.89,Minsk Mazowiecki,703835.0
+83.5,2,20,3.2,Grodzisk Mazowiecki,855872.0
+77.2,4,39,2.64,Blonie,684313.0
+90.2,2,13,0.35,Minsk Mazowiecki,926659.0
+77.7,3,38,1.24,Blonie,791866.0
+71.9,3,30,2.51,Piaseczno,849908.0
+41.1,1,13,1.62,Minsk Mazowiecki,606101.0
+58.9,2,5,0.99,Pruszkow,881847.0
+52.2,1,11,2.57,Piaseczno,769569.0
+50.9,2,15,1.68,Piaseczno,712834.0
+98.2,2,16,1.36,Blonie,870079.0
+60.6,3,44,2.37,Piaseczno,742306.0
+93.0,2,22,0.75,Grodzisk Mazowiecki,899876.0
+76.0,2,13,4.65,Minsk Mazowiecki,656206.0
+86.7,3,6,4.35,Grodzisk Mazowiecki,864187.0
+67.7,1,45,3.57,Blonie,593611.0
+72.5,4,31,0.62,Blonie,840234.0
+67.0,4,14,3.9,Minsk Mazowiecki,743053.0
+47.7,3,43,4.06,Piaseczno,664487.0
+82.0,3,16,3.86,Pruszkow,876867.0
+53.3,4,40,0.66,Blonie,615912.0
+36.6,2,46,3.26,Minsk Mazowiecki,461466.0
+77.0,1,43,4.19,Pruszkow,758829.0
+46.5,2,33,2.93,Piaseczno,650333.0
+96.1,3,4,3.27,Blonie,942017.0
+97.0,1,44,2.35,Minsk Mazowiecki,807802.0
+94.5,3,26,2.69,Minsk Mazowiecki,887677.0
+59.1,4,22,0.27,Minsk Mazowiecki,756270.0
+36.0,4,39,3.23,Blonie,542971.0
+95.3,3,13,0.5,Pruszkow,1079538.0
+62.8,1,14,2.23,Minsk Mazowiecki,651399.0
+97.8,4,42,1.53,Piaseczno,1061478.0
+97.6,3,32,2.77,Minsk Mazowiecki,850505.0
+90.4,2,30,0.75,Pruszkow,955311.0
+54.1,1,34,3.49,Blonie,538949.0
+60.0,4,16,4.0,Minsk Mazowiecki,686500.0
+90.3,3,27,0.9,Minsk Mazowiecki,911812.0
+55.6,4,18,0.61,Piaseczno,806309.0
+46.0,4,45,0.81,Piaseczno,723811.0
+71.2,3,22,4.4,Minsk Mazowiecki,723219.0
+95.9,3,31,2.69,Minsk Mazowiecki,899356.0
+80.2,2,39,2.39,Piaseczno,802946.0
+72.1,2,12,0.62,Pruszkow,874330.0
+41.3,2,19,3.28,Grodzisk Mazowiecki,530564.0
+75.0,3,34,4.35,Grodzisk Mazowiecki,724694.0
+99.4,3,4,4.16,Minsk Mazowiecki,865051.0
+44.1,4,8,3.17,Piaseczno,685818.0
+68.7,2,28,0.47,Blonie,718146.0
+92.0,3,5,0.65,Blonie,896096.0
+83.1,3,24,0.34,Grodzisk Mazowiecki,907566.0
+80.3,3,30,1.36,Pruszkow,832805.0
+80.7,3,21,0.76,Grodzisk Mazowiecki,903460.0
+58.4,2,1,1.37,Minsk Mazowiecki,724889.0
+54.1,3,44,1.99,Pruszkow,666181.0
+87.6,2,4,4.72,Blonie,770178.0
+87.7,2,26,3.09,Piaseczno,896688.0
+91.4,2,24,4.19,Piaseczno,910486.0
+94.4,3,7,3.58,Minsk Mazowiecki,931013.0
+68.2,4,0,0.65,Grodzisk Mazowiecki,920117.0
+67.6,3,19,3.71,Minsk Mazowiecki,763751.0
+86.9,3,43,1.45,Piaseczno,940659.0
+77.2,3,22,3.23,Blonie,745509.0
+80.6,3,31,1.77,Piaseczno,889289.0
+86.7,1,10,4.99,Pruszkow,822786.0
+92.9,2,38,1.39,Piaseczno,966871.0
+57.0,2,46,1.47,Piaseczno,682917.0
+59.4,2,23,4.66,Pruszkow,675969.0
+41.1,1,10,0.22,Grodzisk Mazowiecki,654434.0
+72.6,2,28,3.51,Piaseczno,768457.0
+37.3,2,25,3.65,Minsk Mazowiecki,450264.0
+65.3,4,15,4.2,Piaseczno,874042.0
+70.3,2,34,4.87,Minsk Mazowiecki,578803.0
+53.6,2,19,4.88,Pruszkow,635667.0
+73.4,2,45,0.42,Piaseczno,881978.0
+37.0,3,2,4.13,Pruszkow,638972.0
+37.4,2,0,3.27,Pruszkow,622094.0
+88.5,2,46,3.27,Grodzisk Mazowiecki,742136.0
+58.4,3,0,0.73,Piaseczno,882394.0
+43.3,1,16,3.29,Minsk Mazowiecki,451915.0
+68.9,1,1,4.91,Minsk Mazowiecki,678696.0
+85.0,2,28,4.57,Piaseczno,833945.0
+49.0,1,19,2.25,Grodzisk Mazowiecki,651104.0
+75.5,2,5,0.3,Grodzisk Mazowiecki,857200.0
+40.5,2,7,1.88,Grodzisk Mazowiecki,619396.0
+38.4,4,28,4.15,Minsk Mazowiecki,519007.0
+69.5,3,47,3.54,Pruszkow,729467.0
+70.1,3,32,2.35,Grodzisk Mazowiecki,709821.0
+76.4,2,2,0.37,Minsk Mazowiecki,852875.0
+82.2,4,34,2.19,Minsk Mazowiecki,854497.0
+98.4,2,4,2.4,Pruszkow,1026180.0
+68.6,1,26,4.65,Piaseczno,667177.0
+56.0,3,43,3.24,Piaseczno,707797.0
+86.7,2,11,1.63,Grodzisk Mazowiecki,855822.0
+52.6,2,19,2.67,Grodzisk Mazowiecki,638789.0
+63.5,3,44,0.42,Pruszkow,805298.0
+40.1,4,19,4.87,Grodzisk Mazowiecki,583411.0
+36.6,2,8,1.86,Pruszkow,583662.0
+97.6,3,38,2.44,Minsk Mazowiecki,888748.0
+89.3,4,3,1.84,Grodzisk Mazowiecki,998952.0
+80.2,2,18,3.44,Minsk Mazowiecki,746290.0
+61.6,2,37,3.34,Blonie,589627.0
+46.3,2,26,3.61,Pruszkow,522941.0
+45.2,2,44,1.41,Blonie,446461.0
+51.3,2,42,1.65,Grodzisk Mazowiecki,646556.0
+70.7,4,12,0.71,Minsk Mazowiecki,826733.0
+81.4,3,12,3.31,Grodzisk Mazowiecki,828714.0
+77.9,3,21,0.3,Blonie,842940.0
+53.2,2,27,3.03,Grodzisk Mazowiecki,609822.0
+97.1,4,46,4.36,Piaseczno,893039.0
+83.0,4,44,4.47,Blonie,715735.0
+71.0,4,21,2.3,Grodzisk Mazowiecki,759634.0
+74.8,1,42,2.35,Minsk Mazowiecki,718098.0
+62.3,3,18,0.48,Grodzisk Mazowiecki,787492.0
+51.1,1,7,3.39,Minsk Mazowiecki,567230.0
+58.1,2,7,4.12,Piaseczno,703294.0
+84.3,1,41,1.3,Grodzisk Mazowiecki,805580.0
+35.9,3,25,2.16,Piaseczno,628909.0
+42.5,3,47,4.21,Blonie,394735.0
+38.0,2,25,4.4,Minsk Mazowiecki,445445.0
+37.6,2,22,1.29,Blonie,517624.0
+90.6,2,42,2.8,Minsk Mazowiecki,822456.0
+80.7,2,12,1.04,Piaseczno,956914.0
+65.8,2,27,0.6,Pruszkow,866380.0
+41.4,2,8,4.56,Grodzisk Mazowiecki,530301.0
+67.0,3,19,4.12,Piaseczno,772166.0
+65.8,1,18,3.82,Minsk Mazowiecki,656797.0
+46.3,1,47,0.34,Minsk Mazowiecki,578224.0
+63.2,2,38,4.23,Minsk Mazowiecki,608930.0
+60.9,4,11,2.25,Minsk Mazowiecki,713766.0
+75.0,3,14,1.78,Grodzisk Mazowiecki,815810.0
+76.3,3,30,2.78,Blonie,718737.0
+37.9,2,13,0.55,Pruszkow,732827.0
+59.3,3,10,3.81,Grodzisk Mazowiecki,666480.0
+75.7,1,25,2.95,Minsk Mazowiecki,697392.0
+67.7,3,41,1.01,Grodzisk Mazowiecki,775296.0
+90.7,4,26,1.02,Piaseczno,1038891.0
+77.8,3,10,1.0,Minsk Mazowiecki,878463.0
+45.6,4,37,0.38,Pruszkow,722125.0
+39.6,3,33,2.98,Minsk Mazowiecki,483746.0
+76.8,2,42,4.22,Pruszkow,718477.0
+36.7,4,18,0.19,Pruszkow,753295.0
+73.1,1,5,0.34,Blonie,829109.0
+96.1,3,45,2.91,Blonie,766750.0
+72.4,2,37,4.12,Grodzisk Mazowiecki,704384.0
+60.2,1,48,1.7,Grodzisk Mazowiecki,669463.0
+76.8,2,41,1.81,Pruszkow,815615.0
+64.8,2,27,3.02,Minsk Mazowiecki,673488.0
+70.5,2,0,1.44,Piaseczno,940145.0
+96.2,3,34,0.23,Piaseczno,1014429.0
+60.1,1,39,3.7,Minsk Mazowiecki,631988.0
+97.5,2,7,3.17,Minsk Mazowiecki,939092.0
+93.8,3,46,2.95,Blonie,805021.0
+47.7,2,6,3.73,Piaseczno,688265.0
+39.5,3,10,3.41,Pruszkow,654543.0
+41.6,3,38,1.11,Grodzisk Mazowiecki,554492.0
+36.2,4,3,1.83,Blonie,667263.0
+41.1,3,24,0.72,Piaseczno,748867.0
+79.4,2,11,0.74,Minsk Mazowiecki,900620.0
+39.6,3,25,3.41,Piaseczno,623723.0
+55.7,2,37,4.31,Pruszkow,611591.0
+89.9,2,45,4.82,Blonie,672071.0
+36.5,3,11,3.18,Minsk Mazowiecki,570507.0
+87.9,2,42,1.0,Pruszkow,887024.0
+53.3,3,36,0.62,Grodzisk Mazowiecki,685579.0
+42.7,4,45,4.08,Blonie,487692.0
+80.3,4,23,2.94,Pruszkow,866320.0
+75.9,4,15,3.13,Pruszkow,905318.0
+92.0,2,12,3.93,Minsk Mazowiecki,833568.0
+82.8,2,24,3.55,Grodzisk Mazowiecki,745056.0
+87.2,3,3,4.19,Pruszkow,899900.0
+53.3,2,10,0.38,Blonie,732646.0
+46.5,3,31,3.76,Pruszkow,590590.0
+83.8,3,48,4.27,Piaseczno,831522.0
+87.4,3,6,1.5,Blonie,898050.0
+99.4,2,45,3.24,Blonie,791549.0
+61.8,2,10,1.64,Pruszkow,881978.0
+59.2,2,27,4.79,Minsk Mazowiecki,535474.0
+85.5,2,40,0.26,Blonie,792996.0
+57.2,4,22,2.94,Piaseczno,769297.0
+95.5,2,44,0.92,Minsk Mazowiecki,937872.0
+90.8,2,22,3.59,Minsk Mazowiecki,811467.0
+62.9,1,49,0.96,Minsk Mazowiecki,644328.0
+83.8,3,27,1.25,Blonie,817725.0
+84.0,3,42,2.52,Minsk Mazowiecki,784159.0
+41.7,2,46,4.58,Pruszkow,499585.0
+93.7,1,25,1.14,Minsk Mazowiecki,896360.0
+67.8,2,24,0.81,Piaseczno,875726.0
+88.7,2,28,3.82,Grodzisk Mazowiecki,800577.0
+55.8,3,18,2.55,Piaseczno,729536.0
+93.2,3,32,4.57,Blonie,774907.0
+60.3,2,35,0.82,Minsk Mazowiecki,721764.0
+35.7,2,13,3.27,Minsk Mazowiecki,488800.0
+93.8,4,13,1.24,Pruszkow,1053118.0
+40.9,2,34,0.87,Minsk Mazowiecki,528128.0
+55.8,3,29,3.45,Piaseczno,677606.0
+96.8,2,27,3.01,Blonie,872011.0
+96.8,2,16,3.8,Grodzisk Mazowiecki,907546.0
+72.3,1,2,1.62,Minsk Mazowiecki,800669.0
+76.1,3,15,2.3,Grodzisk Mazowiecki,760447.0
+64.1,4,45,2.09,Minsk Mazowiecki,662813.0
+54.1,2,29,4.92,Blonie,532704.0
+56.4,1,28,1.53,Piaseczno,689028.0
+78.7,1,44,1.54,Blonie,695383.0
+83.9,2,14,1.84,Grodzisk Mazowiecki,896200.0
+86.5,2,45,2.87,Minsk Mazowiecki,705066.0
+86.3,1,24,1.34,Grodzisk Mazowiecki,807221.0
+40.9,3,37,4.58,Piaseczno,520685.0
+67.1,2,41,1.4,Blonie,678135.0
+38.7,2,46,4.49,Grodzisk Mazowiecki,425790.0
+70.7,4,37,0.61,Grodzisk Mazowiecki,839741.0
+63.7,2,22,3.32,Piaseczno,761231.0
+92.7,4,24,4.54,Minsk Mazowiecki,886416.0
+57.8,2,41,0.93,Grodzisk Mazowiecki,639276.0
+42.6,4,6,4.84,Piaseczno,675353.0
+44.3,3,21,2.32,Minsk Mazowiecki,569844.0
+84.5,4,16,4.73,Minsk Mazowiecki,813106.0
+75.2,4,17,3.42,Blonie,759698.0
+41.6,2,48,1.58,Piaseczno,582406.0
+40.5,4,40,1.02,Minsk Mazowiecki,577685.0
+80.6,2,9,1.59,Blonie,825593.0
+39.7,2,9,0.56,Pruszkow,690921.0
+88.4,2,6,0.8,Piaseczno,1043215.0
+80.9,3,47,0.61,Pruszkow,848667.0
+40.3,2,49,2.17,Minsk Mazowiecki,546930.0
+40.5,3,37,4.0,Piaseczno,609111.0
+99.1,3,26,0.79,Blonie,946362.0
+59.3,3,32,0.74,Minsk Mazowiecki,788959.0
+59.1,4,0,3.25,Piaseczno,817821.0
+87.8,2,43,1.07,Piaseczno,935541.0
+96.6,2,33,0.58,Pruszkow,996380.0
+99.1,2,3,0.92,Minsk Mazowiecki,1013424.0
+84.0,2,16,4.63,Blonie,779983.0
+59.5,1,3,4.13,Blonie,632068.0
+40.4,2,42,1.83,Minsk Mazowiecki,543754.0
+85.5,2,25,3.31,Minsk Mazowiecki,764688.0
+71.3,4,3,2.73,Grodzisk Mazowiecki,832215.0
+62.6,3,0,3.42,Pruszkow,852149.0
+93.9,2,6,3.45,Minsk Mazowiecki,892806.0
+42.2,3,29,3.18,Minsk Mazowiecki,542750.0
+67.0,2,49,1.4,Grodzisk Mazowiecki,674903.0
+35.7,2,8,0.29,Grodzisk Mazowiecki,674498.0
+65.5,3,34,2.33,Piaseczno,764656.0
+38.7,2,7,4.47,Blonie,458315.0
+42.7,2,23,2.89,Pruszkow,625448.0
+42.6,4,18,4.18,Piaseczno,583125.0
+77.2,4,35,4.96,Minsk Mazowiecki,715232.0
+83.5,3,49,0.9,Grodzisk Mazowiecki,842808.0
+72.9,3,42,3.49,Blonie,647116.0
+97.5,3,26,3.4,Piaseczno,960136.0
+59.4,2,31,4.9,Blonie,538320.0
+53.6,2,13,4.93,Grodzisk Mazowiecki,577526.0
+91.5,1,17,3.46,Piaseczno,918237.0
+49.5,2,27,1.29,Piaseczno,713318.0
+97.6,3,28,4.01,Blonie,828674.0
+35.8,2,15,0.62,Grodzisk Mazowiecki,614028.0
+98.0,4,34,3.93,Minsk Mazowiecki,844524.0
+37.8,4,46,4.56,Piaseczno,553355.0
+92.9,3,30,1.98,Minsk Mazowiecki,896433.0
+69.3,3,3,3.19,Grodzisk Mazowiecki,776857.0
+99.5,4,36,2.21,Piaseczno,1022564.0
+39.8,2,16,2.25,Piaseczno,676883.0
+71.0,3,38,1.62,Minsk Mazowiecki,693884.0
+98.0,2,47,3.83,Pruszkow,894896.0
+69.0,3,45,4.69,Minsk Mazowiecki,672494.0
+75.9,2,25,4.71,Minsk Mazowiecki,678957.0
+80.2,4,47,0.96,Pruszkow,879764.0
+64.5,4,38,4.39,Grodzisk Mazowiecki,653910.0
+75.8,2,40,3.71,Grodzisk Mazowiecki,722118.0
+73.0,2,3,1.34,Piaseczno,935623.0
+93.6,4,29,0.43,Blonie,878480.0
+38.0,2,29,1.41,Blonie,497216.0
+53.3,4,21,4.57,Piaseczno,715419.0
+96.8,3,10,3.2,Blonie,885449.0
+92.9,2,1,3.63,Minsk Mazowiecki,841016.0
+64.6,2,43,1.36,Minsk Mazowiecki,714308.0
+75.3,2,11,3.63,Pruszkow,801409.0
+53.0,3,29,0.24,Pruszkow,769373.0
+47.2,2,35,1.94,Piaseczno,662354.0
+65.1,3,17,3.17,Piaseczno,770639.0
+58.0,2,25,0.82,Piaseczno,796449.0
+72.9,3,6,4.13,Minsk Mazowiecki,760263.0
+40.1,4,0,1.25,Blonie,639070.0
+98.3,4,25,3.3,Piaseczno,988214.0
+99.1,2,22,2.09,Piaseczno,1024915.0
+80.4,4,25,3.02,Minsk Mazowiecki,740046.0
+69.8,3,44,0.63,Minsk Mazowiecki,714550.0
+55.1,3,5,0.18,Minsk Mazowiecki,769103.0
+87.9,4,5,4.56,Blonie,812298.0
+79.5,2,43,1.42,Piaseczno,840669.0
+45.6,2,7,4.12,Grodzisk Mazowiecki,619551.0
+94.2,4,23,5.0,Grodzisk Mazowiecki,838700.0
+88.5,2,21,1.14,Piaseczno,1033675.0
+96.7,4,18,1.4,Piaseczno,1010565.0
+82.2,4,36,3.35,Piaseczno,806340.0
+74.9,1,17,4.83,Piaseczno,798368.0
+62.2,4,30,4.59,Blonie,580981.0
+95.6,2,36,2.56,Grodzisk Mazowiecki,837788.0
+91.3,3,29,4.0,Pruszkow,914842.0
+37.9,3,41,0.77,Grodzisk Mazowiecki,566882.0
+36.7,4,32,4.89,Grodzisk Mazowiecki,520811.0
+59.5,1,9,4.83,Minsk Mazowiecki,581288.0
+87.7,2,36,0.9,Piaseczno,950076.0
+99.2,3,11,1.57,Piaseczno,1055257.0
+44.8,3,29,0.59,Piaseczno,701006.0
+73.6,3,26,1.43,Minsk Mazowiecki,835618.0
+59.8,2,38,4.1,Blonie,584294.0
+98.0,2,8,1.95,Blonie,897701.0
+89.7,2,20,0.53,Pruszkow,976948.0
+89.5,4,11,1.78,Blonie,950387.0
+65.5,2,28,4.91,Blonie,556053.0
+62.0,2,32,3.19,Piaseczno,698277.0
+52.8,4,42,2.14,Grodzisk Mazowiecki,661702.0
+38.7,1,14,0.92,Blonie,627715.0
+91.2,4,1,4.93,Blonie,848415.0
+87.8,3,38,4.12,Minsk Mazowiecki,789694.0
+100.0,4,43,1.48,Pruszkow,967577.0
+99.8,2,17,0.44,Minsk Mazowiecki,983932.0
+71.1,1,2,0.38,Piaseczno,909412.0
+85.0,3,6,0.69,Grodzisk Mazowiecki,1010299.0
+96.4,4,42,2.95,Pruszkow,982861.0
+90.2,3,17,4.65,Minsk Mazowiecki,877583.0
+51.1,2,43,2.53,Blonie,512335.0
+64.3,3,37,4.23,Blonie,597465.0
+43.4,3,36,2.28,Pruszkow,643255.0
+97.0,3,32,3.57,Blonie,805206.0
+74.4,3,43,3.69,Minsk Mazowiecki,682132.0
+49.9,4,30,0.95,Minsk Mazowiecki,693169.0
+78.7,3,10,1.87,Blonie,804589.0
+75.2,1,3,3.22,Blonie,715999.0
+58.3,2,17,0.45,Piaseczno,800710.0
+42.4,1,3,1.87,Grodzisk Mazowiecki,590489.0
+78.7,2,48,2.72,Pruszkow,806220.0
+68.8,2,33,4.98,Minsk Mazowiecki,589730.0
+85.2,1,28,2.43,Pruszkow,833967.0
+68.8,2,23,4.1,Piaseczno,778172.0
+90.4,2,21,2.22,Minsk Mazowiecki,852982.0
+70.9,4,1,4.0,Piaseczno,857134.0
+71.5,4,43,3.02,Piaseczno,825219.0
+92.0,1,5,4.44,Blonie,779337.0
+61.2,4,41,2.11,Pruszkow,686091.0
+43.7,3,24,3.06,Pruszkow,680397.0
+36.9,2,20,3.19,Blonie,460854.0
+84.1,1,15,2.15,Pruszkow,871031.0
+75.3,3,30,0.81,Blonie,761064.0
+80.8,3,13,0.56,Minsk Mazowiecki,887288.0
+48.8,3,38,0.18,Piaseczno,734173.0
+43.9,1,27,4.38,Piaseczno,604142.0
+35.9,1,31,1.26,Pruszkow,639453.0
+57.8,2,27,1.14,Grodzisk Mazowiecki,684724.0
+73.3,2,48,3.71,Piaseczno,710360.0
+60.5,2,8,1.67,Blonie,687243.0
+63.4,2,44,2.58,Grodzisk Mazowiecki,666172.0
+93.8,4,21,0.9,Grodzisk Mazowiecki,979809.0
+57.6,4,31,4.8,Piaseczno,679088.0
+68.4,2,4,4.27,Piaseczno,763390.0
+85.9,4,22,4.33,Piaseczno,834233.0
+60.8,2,4,2.09,Blonie,671958.0
+75.4,2,41,3.84,Grodzisk Mazowiecki,732632.0
+91.1,2,31,0.8,Pruszkow,968180.0
+96.7,3,9,0.14,Blonie,977754.0
+44.6,4,38,0.2,Minsk Mazowiecki,658494.0
+95.2,3,14,2.97,Piaseczno,958464.0
+67.0,2,6,2.33,Grodzisk Mazowiecki,778803.0
+51.8,3,28,2.64,Blonie,538009.0
+64.8,2,46,0.14,Minsk Mazowiecki,709981.0
+98.7,4,2,2.17,Blonie,979885.0
+67.0,3,18,3.62,Blonie,686899.0
+56.4,2,9,2.27,Pruszkow,792829.0
+76.2,3,27,3.69,Pruszkow,832280.0
+50.6,3,28,1.24,Blonie,590133.0
+39.9,1,14,4.08,Minsk Mazowiecki,527482.0
+43.4,3,34,2.98,Grodzisk Mazowiecki,559716.0
+43.3,2,5,1.13,Grodzisk Mazowiecki,614296.0
+44.9,3,11,1.26,Piaseczno,750837.0
+44.0,4,46,3.18,Piaseczno,643014.0
+76.7,4,37,4.17,Grodzisk Mazowiecki,712184.0
+46.8,3,12,2.14,Blonie,656586.0
+57.5,3,28,1.37,Blonie,636201.0
+93.3,2,18,4.35,Pruszkow,879867.0
+65.8,3,2,3.38,Pruszkow,798458.0
+78.4,2,7,2.3,Piaseczno,862631.0
+46.2,2,7,2.49,Grodzisk Mazowiecki,615206.0
+47.5,2,19,1.1,Blonie,593144.0
+37.7,2,46,3.17,Grodzisk Mazowiecki,472197.0
+46.0,3,3,1.86,Minsk Mazowiecki,572656.0
+53.1,1,20,4.98,Grodzisk Mazowiecki,580697.0
+46.5,3,2,2.45,Minsk Mazowiecki,671700.0
+40.8,2,44,2.48,Pruszkow,605844.0
+42.8,1,7,2.87,Pruszkow,598450.0
+65.0,3,22,4.59,Piaseczno,738515.0
+48.4,1,15,4.02,Grodzisk Mazowiecki,600543.0
+58.7,2,12,2.31,Grodzisk Mazowiecki,743725.0
+67.7,3,2,3.62,Minsk Mazowiecki,786968.0
+79.9,1,47,2.97,Pruszkow,765881.0
+37.6,4,8,2.51,Minsk Mazowiecki,598621.0
+87.0,1,13,1.04,Pruszkow,901562.0
+75.8,2,12,2.37,Minsk Mazowiecki,815646.0
+40.3,3,6,1.3,Pruszkow,703991.0
+91.8,2,14,4.58,Minsk Mazowiecki,809418.0
+94.9,2,6,1.74,Pruszkow,1011215.0
+39.0,2,37,4.77,Minsk Mazowiecki,356560.0
+53.0,2,33,2.71,Grodzisk Mazowiecki,589856.0
+87.4,4,40,3.19,Piaseczno,912316.0
+83.6,2,21,2.76,Minsk Mazowiecki,794842.0
+47.0,3,23,0.73,Piaseczno,766455.0
+48.6,4,48,1.94,Grodzisk Mazowiecki,636915.0
+59.1,2,36,0.59,Grodzisk Mazowiecki,682203.0
+66.5,4,43,3.15,Pruszkow,731545.0
+75.2,2,0,2.29,Piaseczno,908264.0
+59.0,4,9,3.91,Blonie,687405.0
+65.1,1,42,1.18,Pruszkow,733177.0
+83.6,3,15,0.91,Piaseczno,933367.0
+37.4,2,45,2.09,Minsk Mazowiecki,473255.0
+51.4,2,7,4.64,Minsk Mazowiecki,603698.0
+81.4,3,48,3.58,Grodzisk Mazowiecki,781711.0
+93.2,3,24,2.15,Blonie,873117.0
+68.3,1,49,2.63,Minsk Mazowiecki,573820.0
+69.6,2,11,0.51,Piaseczno,892609.0
+42.0,3,24,4.92,Piaseczno,608652.0
+64.1,3,16,3.37,Minsk Mazowiecki,719486.0
+69.6,4,25,1.5,Piaseczno,895312.0
+50.8,3,45,2.97,Piaseczno,645652.0
+52.5,4,47,0.64,Grodzisk Mazowiecki,704055.0
+59.5,3,13,4.83,Blonie,590383.0
+36.3,2,40,0.96,Grodzisk Mazowiecki,554539.0
+55.9,2,35,3.28,Blonie,581994.0
+48.7,3,22,1.3,Piaseczno,765499.0
+56.3,3,42,3.62,Blonie,572173.0
+42.8,1,5,3.91,Piaseczno,654217.0
+92.9,2,46,3.4,Piaseczno,838939.0
+73.6,4,4,3.11,Grodzisk Mazowiecki,838827.0
+79.1,3,42,4.47,Grodzisk Mazowiecki,688223.0
+86.3,2,24,0.49,Pruszkow,944416.0
+67.4,2,17,1.72,Minsk Mazowiecki,705235.0
+40.6,2,12,1.32,Pruszkow,694349.0
+69.9,2,42,4.94,Pruszkow,617245.0
+73.1,2,13,2.01,Blonie,774318.0
+83.5,1,27,3.69,Piaseczno,833260.0
+63.1,3,17,3.46,Piaseczno,839365.0
+43.3,2,27,1.14,Piaseczno,681962.0
+53.4,4,26,1.27,Minsk Mazowiecki,681153.0
+58.6,4,31,1.48,Blonie,700176.0
+77.0,2,46,2.11,Blonie,689305.0
+72.1,3,8,1.25,Piaseczno,933345.0
+58.1,2,39,0.2,Pruszkow,784932.0
+99.1,4,31,4.41,Minsk Mazowiecki,846775.0
+74.4,2,19,4.83,Pruszkow,799858.0
+50.4,3,27,1.77,Grodzisk Mazowiecki,611426.0
+41.6,3,32,1.76,Blonie,594904.0
+44.9,2,3,0.13,Blonie,614355.0
+51.0,2,45,3.43,Pruszkow,641166.0
+45.4,3,33,4.14,Minsk Mazowiecki,459706.0
+47.1,3,47,0.82,Blonie,629918.0
+53.5,2,2,0.88,Pruszkow,804426.0
+46.3,3,25,3.97,Minsk Mazowiecki,517853.0
+93.3,2,7,3.12,Pruszkow,1014654.0
+40.2,3,5,0.32,Minsk Mazowiecki,636434.0
+69.1,2,15,3.15,Piaseczno,805779.0
+61.7,4,23,1.61,Minsk Mazowiecki,812541.0
+98.9,2,47,1.91,Grodzisk Mazowiecki,890466.0
+42.3,2,38,3.87,Piaseczno,511920.0
+60.9,1,29,4.07,Pruszkow,652601.0
+98.0,2,44,2.06,Piaseczno,935347.0
+91.3,3,12,4.74,Piaseczno,931256.0
+88.1,2,4,2.09,Pruszkow,964567.0
+51.8,4,24,3.88,Pruszkow,700776.0
+46.1,1,19,2.47,Grodzisk Mazowiecki,549158.0
+78.5,2,17,4.5,Pruszkow,787063.0
+95.4,2,46,4.55,Blonie,740255.0
+71.2,1,17,0.53,Blonie,735936.0
+72.2,2,1,4.69,Grodzisk Mazowiecki,782878.0
+53.2,2,9,4.15,Minsk Mazowiecki,579936.0
+85.0,2,44,3.98,Minsk Mazowiecki,714900.0
+47.2,2,49,1.08,Blonie,535151.0
+56.0,3,46,4.05,Pruszkow,599060.0
+62.7,3,11,4.27,Grodzisk Mazowiecki,702415.0
+68.0,1,46,1.52,Minsk Mazowiecki,618042.0
+50.8,2,12,4.77,Minsk Mazowiecki,548392.0
+42.5,4,49,0.34,Piaseczno,693208.0
+74.7,3,46,0.83,Blonie,695480.0
+53.8,3,10,2.73,Pruszkow,764605.0
+72.8,2,18,2.92,Grodzisk Mazowiecki,772011.0
+45.0,3,34,3.26,Minsk Mazowiecki,553160.0
+66.3,3,38,0.18,Piaseczno,847474.0
+69.6,3,25,4.81,Blonie,606279.0
+38.4,4,45,0.32,Blonie,558298.0
+56.9,2,13,0.8,Grodzisk Mazowiecki,763593.0
+43.7,1,44,0.17,Minsk Mazowiecki,521391.0
+39.1,3,43,2.88,Grodzisk Mazowiecki,487375.0
+99.3,4,23,4.67,Grodzisk Mazowiecki,890817.0
+56.0,2,40,3.36,Piaseczno,654060.0
+87.6,2,0,4.13,Blonie,811215.0
+51.6,1,42,0.17,Pruszkow,680749.0
+79.3,2,21,2.76,Blonie,755300.0
+84.4,3,22,2.35,Blonie,847555.0
+73.7,3,18,2.54,Piaseczno,887152.0
+65.7,2,17,0.45,Pruszkow,849885.0
+61.8,2,11,3.45,Minsk Mazowiecki,636599.0
+57.7,1,27,2.57,Pruszkow,669940.0
+95.4,2,27,3.85,Minsk Mazowiecki,844652.0
+89.0,3,32,2.48,Pruszkow,895545.0
+97.7,4,18,0.83,Grodzisk Mazowiecki,987267.0
+43.1,4,27,3.28,Pruszkow,705641.0
+82.5,1,48,0.94,Piaseczno,902534.0
+96.0,4,36,4.37,Minsk Mazowiecki,821166.0
+46.8,3,25,3.1,Blonie,522820.0
+39.3,3,34,0.87,Piaseczno,696401.0
+83.2,2,33,4.82,Minsk Mazowiecki,687398.0
+72.3,2,34,2.64,Minsk Mazowiecki,726256.0
+89.7,2,39,0.46,Blonie,822228.0
+44.1,1,15,3.17,Grodzisk Mazowiecki,621362.0
+86.7,2,37,1.34,Piaseczno,901938.0
+48.1,2,12,4.04,Blonie,618342.0
+45.6,2,22,4.11,Blonie,511152.0
+45.7,3,21,4.9,Grodzisk Mazowiecki,596229.0
+87.9,2,15,2.56,Piaseczno,926897.0
+78.2,1,27,2.33,Blonie,682459.0
+69.0,4,47,3.79,Grodzisk Mazowiecki,613613.0
+58.3,4,34,0.75,Piaseczno,850598.0
+92.0,3,44,2.78,Pruszkow,890640.0
+60.5,4,45,2.78,Minsk Mazowiecki,599673.0
+88.1,3,7,0.54,Grodzisk Mazowiecki,1014446.0
+63.5,4,43,2.15,Minsk Mazowiecki,713680.0
+59.5,1,21,4.28,Pruszkow,707572.0
+65.1,2,20,4.3,Blonie,581406.0
+54.6,2,25,0.59,Blonie,694792.0
+83.6,2,39,0.54,Piaseczno,929421.0
+67.7,2,20,1.39,Grodzisk Mazowiecki,817329.0
+50.1,3,24,4.39,Grodzisk Mazowiecki,605182.0
+93.5,3,40,0.73,Piaseczno,994290.0
+60.0,3,0,3.63,Minsk Mazowiecki,738900.0
+70.3,2,5,0.6,Blonie,826857.0
+93.9,4,22,3.15,Blonie,896353.0
+75.6,3,22,1.84,Grodzisk Mazowiecki,808759.0
+42.6,2,42,3.97,Grodzisk Mazowiecki,486328.0
+96.1,3,42,1.25,Piaseczno,932086.0
+75.8,2,22,3.23,Pruszkow,796096.0
+56.8,2,31,1.25,Minsk Mazowiecki,679512.0
+44.1,4,29,3.6,Pruszkow,651026.0
+86.6,2,12,4.38,Pruszkow,838814.0
+75.3,2,42,0.72,Grodzisk Mazowiecki,823670.0
+69.7,4,17,4.35,Grodzisk Mazowiecki,834392.0
+93.1,3,22,3.01,Grodzisk Mazowiecki,866218.0
+86.3,1,14,0.72,Pruszkow,945024.0
+44.9,2,32,2.19,Minsk Mazowiecki,535052.0
+55.3,1,20,0.89,Grodzisk Mazowiecki,692253.0
+51.2,3,38,3.53,Blonie,544517.0
+83.4,2,22,3.82,Minsk Mazowiecki,739880.0
+37.2,2,26,0.62,Blonie,541292.0
+72.0,4,44,2.58,Minsk Mazowiecki,717217.0
+84.6,3,43,4.09,Grodzisk Mazowiecki,771548.0
+92.0,2,17,4.69,Piaseczno,942795.0
+57.2,3,23,2.62,Grodzisk Mazowiecki,686666.0
+88.4,3,46,4.76,Pruszkow,785745.0
+42.2,1,39,2.72,Pruszkow,584990.0
+90.0,2,41,2.03,Minsk Mazowiecki,818605.0
+43.3,4,6,4.26,Pruszkow,661215.0
+60.8,2,49,2.52,Grodzisk Mazowiecki,641251.0
+86.8,3,47,2.41,Blonie,749506.0
+44.7,2,19,2.5,Grodzisk Mazowiecki,589788.0
+49.9,1,26,4.25,Minsk Mazowiecki,459920.0
+81.9,2,5,4.18,Pruszkow,853662.0
+81.8,2,26,2.08,Blonie,720524.0
+76.7,2,8,1.73,Piaseczno,899118.0
+80.1,1,44,2.51,Blonie,702684.0
+70.3,4,30,2.91,Blonie,664345.0
+51.4,4,20,1.27,Grodzisk Mazowiecki,714605.0
+57.5,3,25,3.99,Piaseczno,714764.0
+46.8,4,39,2.48,Minsk Mazowiecki,571742.0
+94.0,2,47,1.74,Minsk Mazowiecki,809860.0
+72.9,4,44,0.62,Blonie,768562.0
+61.1,2,12,1.27,Blonie,722423.0
+65.0,4,48,4.75,Pruszkow,677546.0
+96.6,4,22,1.59,Piaseczno,1034127.0
+45.0,3,19,0.93,Blonie,650542.0
+73.1,4,36,2.36,Pruszkow,788478.0
+67.9,3,27,1.6,Piaseczno,862521.0
+74.7,2,16,0.27,Minsk Mazowiecki,842691.0
+36.2,2,27,1.68,Pruszkow,615271.0
+91.7,3,40,2.77,Piaseczno,916803.0
+95.6,1,1,2.8,Pruszkow,920401.0
+71.7,3,24,1.85,Blonie,786321.0
+80.3,4,49,2.29,Grodzisk Mazowiecki,815760.0
+95.0,2,40,4.83,Minsk Mazowiecki,726258.0
+81.0,3,5,1.95,Blonie,867764.0
+44.9,4,10,1.37,Blonie,658965.0
+72.5,4,37,1.29,Piaseczno,856310.0
+74.4,4,5,2.34,Pruszkow,949454.0
+62.6,3,44,3.82,Minsk Mazowiecki,588075.0
+82.9,4,10,1.11,Blonie,929784.0
+95.7,3,13,3.58,Piaseczno,1000328.0
+95.2,2,1,0.2,Minsk Mazowiecki,1021397.0
+64.3,2,39,2.15,Pruszkow,751173.0
+42.4,3,2,3.9,Blonie,578382.0
+99.0,2,34,1.76,Blonie,872657.0
+89.5,3,32,2.86,Blonie,779395.0
+43.1,3,23,1.1,Minsk Mazowiecki,619976.0
+94.9,2,18,3.74,Minsk Mazowiecki,869692.0
+91.5,3,17,0.36,Minsk Mazowiecki,967278.0
+68.7,3,48,4.28,Minsk Mazowiecki,628838.0
+73.4,2,23,1.07,Piaseczno,817927.0
+60.9,1,44,4.38,Grodzisk Mazowiecki,557603.0
+38.6,1,34,1.83,Piaseczno,592151.0
+56.8,2,0,3.64,Blonie,608502.0
+87.2,4,35,1.66,Piaseczno,983013.0
+35.3,2,24,4.54,Pruszkow,464841.0
+56.7,3,44,0.72,Minsk Mazowiecki,683699.0
+60.9,2,48,0.97,Pruszkow,766177.0
+69.9,2,42,2.52,Pruszkow,742505.0
+94.8,4,33,0.5,Blonie,919070.0
+57.5,3,24,1.06,Minsk Mazowiecki,732227.0
+57.6,1,15,4.72,Pruszkow,633590.0
+82.9,2,33,4.88,Blonie,698323.0
+64.4,1,28,1.94,Minsk Mazowiecki,640666.0
+49.6,2,18,4.62,Grodzisk Mazowiecki,537477.0
+64.4,3,22,2.77,Blonie,687180.0
+44.2,2,18,1.42,Piaseczno,706799.0
+46.5,2,24,3.54,Minsk Mazowiecki,491170.0
+67.4,2,15,3.33,Pruszkow,819459.0
+62.2,4,8,4.95,Pruszkow,742258.0
+94.5,4,0,1.4,Piaseczno,1110320.0
+58.6,1,41,3.39,Piaseczno,705555.0
+72.7,3,18,0.35,Pruszkow,918128.0
+76.1,2,32,0.66,Minsk Mazowiecki,824999.0
+35.9,2,33,0.12,Blonie,513408.0
+78.1,3,15,5.0,Piaseczno,873730.0
+46.6,4,43,4.03,Piaseczno,596424.0
+97.5,4,39,3.95,Piaseczno,921866.0
+44.7,3,17,2.6,Grodzisk Mazowiecki,584060.0
+62.0,2,33,1.57,Minsk Mazowiecki,680453.0
+40.5,3,24,0.84,Minsk Mazowiecki,626728.0
+99.8,2,44,1.49,Minsk Mazowiecki,897104.0
+67.6,3,5,1.94,Minsk Mazowiecki,741952.0
+73.7,2,20,3.81,Minsk Mazowiecki,719149.0
+39.4,3,5,2.74,Pruszkow,684059.0
+83.7,2,31,0.48,Piaseczno,958743.0
+48.6,2,40,0.19,Pruszkow,672718.0
+93.4,4,47,0.6,Grodzisk Mazowiecki,849741.0
+48.3,2,42,2.11,Blonie,552694.0
+47.4,3,38,4.67,Piaseczno,594925.0
+37.4,2,30,3.22,Grodzisk Mazowiecki,521207.0
+65.7,1,41,4.03,Pruszkow,657962.0
+71.7,1,9,2.39,Blonie,733035.0
+39.3,2,29,1.87,Grodzisk Mazowiecki,589314.0
+85.4,4,17,0.63,Blonie,845289.0
+64.5,2,23,4.39,Grodzisk Mazowiecki,692031.0
+69.1,4,8,3.94,Pruszkow,820936.0
+63.6,3,30,0.92,Blonie,757812.0
+61.0,2,14,2.61,Grodzisk Mazowiecki,698916.0
+71.4,3,3,2.49,Pruszkow,855752.0
+45.1,3,39,3.16,Piaseczno,623850.0
+46.8,3,8,4.74,Pruszkow,663600.0
+91.0,2,44,2.94,Pruszkow,849569.0
+96.5,2,8,2.75,Piaseczno,1023675.0
+59.3,4,25,0.35,Pruszkow,821186.0
+52.6,4,3,0.41,Piaseczno,866847.0
+76.9,4,16,1.02,Piaseczno,1027897.0
+61.6,2,15,0.26,Piaseczno,865018.0
+36.7,3,14,3.74,Grodzisk Mazowiecki,566125.0
+45.1,2,34,3.64,Blonie,442223.0
+81.5,2,4,0.77,Grodzisk Mazowiecki,956529.0
+77.8,2,4,4.2,Piaseczno,892794.0
+36.8,3,19,0.86,Blonie,556067.0
+49.4,2,14,1.58,Blonie,655402.0
+50.0,2,17,1.32,Piaseczno,757794.0
+78.7,4,46,1.92,Blonie,750992.0
+36.3,2,1,1.35,Blonie,623529.0
+41.8,1,28,2.5,Grodzisk Mazowiecki,530431.0
+87.0,1,12,2.1,Blonie,797329.0
+46.6,4,3,4.93,Piaseczno,700427.0
+77.4,3,41,0.37,Minsk Mazowiecki,816647.0
+50.5,2,44,0.8,Minsk Mazowiecki,627989.0
+41.5,4,9,0.36,Minsk Mazowiecki,681171.0
+50.8,4,30,3.17,Piaseczno,679207.0
+81.9,2,40,0.37,Minsk Mazowiecki,886157.0
+90.6,3,7,4.2,Grodzisk Mazowiecki,847502.0
+89.0,3,2,2.61,Piaseczno,1002354.0
+60.8,3,47,2.68,Piaseczno,740291.0
+78.4,2,45,2.85,Piaseczno,836934.0
+48.3,4,8,0.94,Blonie,674585.0
+54.1,3,29,1.07,Blonie,593752.0
+93.3,2,10,1.66,Blonie,877292.0
+35.8,2,34,3.01,Pruszkow,575340.0
+40.6,1,36,1.13,Grodzisk Mazowiecki,578825.0
+48.5,2,41,0.67,Piaseczno,718504.0
+36.7,3,12,4.85,Piaseczno,616050.0
+46.8,1,35,0.21,Blonie,617203.0
+72.9,2,12,4.03,Piaseczno,793223.0
+62.4,3,11,3.96,Piaseczno,742163.0
+93.0,1,36,1.56,Minsk Mazowiecki,842314.0
+88.1,4,9,0.76,Piaseczno,1021844.0
+57.2,2,8,0.81,Pruszkow,771073.0
+51.9,2,6,3.52,Blonie,637519.0
+59.7,2,1,3.25,Grodzisk Mazowiecki,725711.0
+73.4,2,22,3.94,Grodzisk Mazowiecki,728055.0
+52.4,1,38,4.69,Minsk Mazowiecki,490178.0
+75.6,3,39,3.49,Grodzisk Mazowiecki,728216.0
+61.6,4,38,0.86,Grodzisk Mazowiecki,785317.0
+70.9,2,20,1.29,Blonie,701262.0
+63.3,3,22,4.23,Blonie,581219.0
+54.1,3,28,1.13,Pruszkow,722609.0
+96.6,4,13,0.46,Minsk Mazowiecki,1011975.0
+84.6,2,25,3.55,Grodzisk Mazowiecki,852760.0
+44.1,2,4,2.07,Pruszkow,728573.0
+91.5,2,30,4.61,Minsk Mazowiecki,783473.0
+66.7,3,24,3.29,Grodzisk Mazowiecki,719104.0
+93.1,4,30,0.54,Grodzisk Mazowiecki,927424.0
+87.0,2,49,4.74,Blonie,682750.0
+62.6,2,19,1.37,Piaseczno,877779.0
+36.5,4,43,1.75,Minsk Mazowiecki,521798.0
+52.5,4,16,2.07,Grodzisk Mazowiecki,696080.0
+70.2,4,44,0.35,Minsk Mazowiecki,763643.0
+76.2,3,1,2.53,Pruszkow,926793.0
+51.8,2,24,0.7,Pruszkow,743152.0
+44.1,3,12,2.06,Piaseczno,750100.0
+89.3,3,38,1.82,Grodzisk Mazowiecki,865196.0
+99.0,1,27,3.89,Blonie,792570.0
+69.2,3,41,4.04,Grodzisk Mazowiecki,678370.0
+46.2,3,5,0.85,Minsk Mazowiecki,673010.0
+52.7,2,2,1.9,Pruszkow,816423.0
+36.2,3,34,1.93,Minsk Mazowiecki,548993.0
+94.4,3,17,0.84,Piaseczno,1015709.0
+42.7,4,10,4.01,Pruszkow,638527.0
+72.5,1,19,3.57,Blonie,687360.0
+52.8,2,4,1.03,Pruszkow,791400.0
+71.0,3,18,1.9,Grodzisk Mazowiecki,813075.0
+77.3,2,21,0.62,Grodzisk Mazowiecki,846936.0
+88.9,3,18,3.18,Pruszkow,936655.0
+48.4,3,46,0.69,Piaseczno,699642.0
+35.7,2,15,4.93,Grodzisk Mazowiecki,505701.0
+43.9,3,23,3.93,Grodzisk Mazowiecki,591191.0
+93.5,3,40,2.01,Blonie,878902.0
+91.8,2,3,2.93,Pruszkow,949959.0
+73.8,4,14,4.57,Grodzisk Mazowiecki,770366.0
+74.0,4,24,2.82,Piaseczno,832831.0
+78.2,3,43,0.96,Minsk Mazowiecki,837688.0
+46.4,3,34,1.96,Pruszkow,605335.0
+94.4,2,13,4.23,Blonie,867486.0
+62.2,4,48,3.26,Grodzisk Mazowiecki,658204.0
+59.9,3,18,3.29,Piaseczno,778253.0
+68.7,3,37,4.35,Pruszkow,714230.0
+38.1,4,35,4.48,Piaseczno,577633.0
+45.8,2,6,4.61,Piaseczno,669143.0
+83.0,4,29,0.56,Blonie,809601.0
+40.4,2,18,2.77,Pruszkow,604736.0
+74.2,2,48,3.73,Grodzisk Mazowiecki,647948.0
+50.9,2,24,3.81,Blonie,554522.0
+60.3,4,15,3.07,Grodzisk Mazowiecki,732331.0
+53.8,4,46,0.92,Minsk Mazowiecki,668743.0
+58.1,3,39,4.01,Piaseczno,685743.0
+81.7,3,7,3.63,Minsk Mazowiecki,845558.0
+54.3,3,17,0.52,Piaseczno,795492.0
+71.8,4,27,2.37,Blonie,743945.0
+65.9,2,15,0.95,Grodzisk Mazowiecki,822681.0
+78.1,2,18,1.75,Grodzisk Mazowiecki,858380.0
+95.9,2,41,0.19,Blonie,832811.0
+82.6,3,16,2.06,Pruszkow,893167.0
+49.0,3,44,2.79,Minsk Mazowiecki,547846.0
+37.0,2,12,3.14,Minsk Mazowiecki,520755.0
+52.0,1,6,3.35,Grodzisk Mazowiecki,634537.0
+73.7,4,26,4.2,Grodzisk Mazowiecki,775086.0
+38.3,1,9,1.16,Grodzisk Mazowiecki,621181.0
+67.3,3,33,0.69,Blonie,741031.0
+73.8,4,35,4.27,Pruszkow,797318.0
+56.7,2,24,0.87,Minsk Mazowiecki,716325.0
+85.1,2,5,4.88,Piaseczno,790020.0
+41.9,3,23,4.23,Blonie,485401.0
+39.9,4,17,2.55,Minsk Mazowiecki,563911.0
+82.3,3,22,4.91,Pruszkow,835759.0
+67.2,4,5,0.58,Blonie,809437.0
+79.7,1,28,1.59,Minsk Mazowiecki,772776.0
+63.3,3,24,3.23,Blonie,678464.0
+51.0,3,16,1.82,Minsk Mazowiecki,643310.0
+88.2,4,45,4.65,Minsk Mazowiecki,758084.0
+87.0,2,23,0.42,Pruszkow,1008515.0
+80.2,4,10,2.79,Piaseczno,967448.0
+52.7,3,25,3.0,Pruszkow,646127.0
+73.4,2,33,3.3,Minsk Mazowiecki,680148.0
+58.5,2,27,1.35,Blonie,663674.0
+41.0,4,2,1.89,Pruszkow,750884.0
+94.6,2,10,4.23,Piaseczno,938130.0
+43.9,2,37,1.06,Minsk Mazowiecki,549906.0
+96.8,2,13,4.15,Pruszkow,935833.0
+64.0,4,25,2.86,Pruszkow,753093.0
+47.0,3,47,3.83,Pruszkow,612592.0
+70.2,3,20,3.6,Pruszkow,849260.0
+91.7,2,38,1.12,Blonie,843441.0
+82.6,3,29,2.89,Piaseczno,879427.0
+87.4,3,7,4.35,Piaseczno,954627.0
+77.8,4,19,2.22,Minsk Mazowiecki,845858.0
+80.0,4,47,4.84,Grodzisk Mazowiecki,709034.0
+90.2,1,31,2.32,Blonie,782665.0
+51.2,3,21,0.8,Minsk Mazowiecki,662414.0
+66.8,1,6,2.01,Minsk Mazowiecki,740441.0
+49.4,3,8,4.76,Pruszkow,672567.0
+99.2,2,44,1.67,Grodzisk Mazowiecki,871696.0
+96.4,2,0,4.35,Grodzisk Mazowiecki,875660.0
+37.6,2,28,4.42,Blonie,393220.0
+80.9,3,7,1.82,Grodzisk Mazowiecki,905796.0
+95.1,2,3,0.51,Minsk Mazowiecki,977456.0
+46.7,3,34,3.65,Grodzisk Mazowiecki,563193.0
+71.9,2,2,1.63,Grodzisk Mazowiecki,851436.0
+94.5,1,44,3.94,Piaseczno,821771.0
+37.2,3,39,2.27,Minsk Mazowiecki,475492.0
+80.3,2,6,2.48,Grodzisk Mazowiecki,859632.0
+54.3,2,26,3.91,Grodzisk Mazowiecki,551640.0
+95.1,3,0,1.97,Pruszkow,1033730.0
+98.1,2,26,2.27,Grodzisk Mazowiecki,989493.0
+96.4,1,15,1.94,Grodzisk Mazowiecki,882244.0
+65.8,2,37,1.9,Piaseczno,762408.0
+91.0,4,6,2.68,Minsk Mazowiecki,856913.0
+89.9,3,43,4.06,Blonie,733088.0
+55.7,3,22,1.87,Minsk Mazowiecki,732096.0
+88.9,3,40,2.67,Pruszkow,897308.0
+37.4,2,10,3.39,Minsk Mazowiecki,509287.0
+73.8,2,41,1.42,Grodzisk Mazowiecki,823142.0
+50.0,3,32,1.46,Pruszkow,653929.0
+42.8,2,49,4.67,Minsk Mazowiecki,437818.0
+40.0,2,35,3.65,Pruszkow,554947.0
+80.3,2,36,2.93,Blonie,706489.0
+57.1,2,40,3.27,Minsk Mazowiecki,598713.0
+82.1,4,16,0.24,Grodzisk Mazowiecki,909941.0
+39.2,1,34,3.13,Pruszkow,555679.0
+55.5,3,47,2.6,Piaseczno,693070.0
+70.1,2,4,2.77,Pruszkow,811370.0
+86.4,4,47,1.86,Piaseczno,973600.0
+55.7,2,31,0.5,Grodzisk Mazowiecki,696245.0
+75.7,2,2,1.05,Blonie,823540.0
+92.6,3,46,4.76,Piaseczno,816970.0
+75.0,3,34,2.1,Blonie,727100.0
+50.1,2,13,2.39,Pruszkow,776443.0
+36.6,2,47,0.36,Grodzisk Mazowiecki,543719.0
+91.6,2,30,0.28,Piaseczno,1011761.0
+36.4,2,30,3.61,Pruszkow,573616.0
+91.9,2,16,2.74,Minsk Mazowiecki,853758.0
+69.4,2,23,2.59,Pruszkow,778912.0
+96.0,2,22,1.29,Blonie,906468.0
+86.9,2,17,3.75,Grodzisk Mazowiecki,819162.0
+99.9,3,49,0.92,Grodzisk Mazowiecki,919345.0
+57.8,4,13,1.03,Pruszkow,861597.0
+84.9,3,49,2.36,Minsk Mazowiecki,764017.0
+61.1,1,14,1.5,Blonie,712997.0
+66.2,1,14,1.31,Pruszkow,810142.0
+75.8,4,5,3.26,Pruszkow,854984.0
+91.8,2,26,3.29,Grodzisk Mazowiecki,744326.0
+99.0,1,14,4.14,Blonie,769656.0
+84.9,3,49,2.15,Minsk Mazowiecki,722421.0
+62.2,3,35,0.46,Grodzisk Mazowiecki,759896.0
+62.4,3,7,1.44,Pruszkow,814560.0
+82.9,2,14,4.9,Grodzisk Mazowiecki,716176.0
+50.5,1,2,3.02,Grodzisk Mazowiecki,643473.0
+42.2,4,46,3.58,Piaseczno,568345.0
+58.1,2,12,0.14,Grodzisk Mazowiecki,788293.0
+53.7,3,40,2.64,Grodzisk Mazowiecki,636148.0
+54.3,3,33,0.28,Blonie,681223.0
+50.2,3,23,2.89,Grodzisk Mazowiecki,560252.0
+37.7,2,39,4.61,Minsk Mazowiecki,421762.0
+36.2,2,31,4.85,Pruszkow,500558.0
+99.2,3,31,2.75,Blonie,828551.0
+62.8,4,29,2.35,Grodzisk Mazowiecki,669677.0
+60.0,4,48,4.73,Minsk Mazowiecki,564839.0
+79.2,2,12,3.4,Pruszkow,885123.0
+49.2,2,0,0.42,Blonie,615147.0
+96.7,4,33,2.38,Minsk Mazowiecki,871324.0
+86.1,3,14,1.28,Grodzisk Mazowiecki,927146.0
+40.8,4,43,2.4,Piaseczno,669048.0
+62.1,2,13,2.33,Piaseczno,790829.0
+92.1,3,28,2.95,Blonie,882030.0
+96.4,3,33,1.85,Minsk Mazowiecki,836541.0
+65.4,3,17,0.9,Pruszkow,792392.0
+74.9,2,6,2.57,Minsk Mazowiecki,817831.0
+45.9,1,28,4.17,Piaseczno,519811.0
+99.4,3,30,3.35,Blonie,864746.0
+50.1,2,24,1.76,Grodzisk Mazowiecki,638964.0
+96.3,2,37,4.68,Minsk Mazowiecki,747870.0
+77.2,4,13,4.57,Piaseczno,850800.0
+74.5,2,7,1.13,Pruszkow,866928.0
+68.3,4,26,0.29,Blonie,776550.0
+50.0,2,1,3.73,Grodzisk Mazowiecki,646123.0
+46.5,3,16,4.16,Minsk Mazowiecki,551713.0
+49.3,4,36,4.84,Pruszkow,593052.0
+47.1,2,13,4.46,Grodzisk Mazowiecki,583924.0
+85.7,1,24,3.04,Piaseczno,922787.0
+57.8,2,29,2.7,Piaseczno,715314.0
+38.8,1,28,0.24,Pruszkow,670200.0
+98.0,3,19,1.31,Piaseczno,1022215.0
+92.4,4,20,2.35,Blonie,843878.0
+95.3,2,21,3.18,Pruszkow,947499.0
+99.7,2,34,2.83,Piaseczno,951294.0
+46.3,2,36,3.74,Minsk Mazowiecki,539485.0
+60.8,3,15,1.47,Piaseczno,872963.0
+84.3,1,49,2.87,Blonie,712373.0
+80.2,3,48,0.53,Grodzisk Mazowiecki,849821.0
+45.0,3,42,2.13,Grodzisk Mazowiecki,478339.0
+88.0,3,16,3.78,Piaseczno,937936.0
+49.6,2,15,3.5,Grodzisk Mazowiecki,640986.0
+49.5,3,1,4.95,Piaseczno,657847.0
+69.9,1,3,1.46,Blonie,758363.0
+73.5,2,20,2.54,Grodzisk Mazowiecki,743518.0
+72.7,4,38,1.71,Minsk Mazowiecki,790725.0
+40.9,3,33,2.26,Piaseczno,616420.0
+92.0,1,29,4.3,Grodzisk Mazowiecki,766714.0
+52.3,2,5,3.45,Blonie,593878.0
+43.4,2,16,4.42,Blonie,565282.0
+92.8,2,38,1.1,Minsk Mazowiecki,888940.0
+97.1,2,24,4.38,Blonie,849578.0
+91.0,1,4,0.39,Blonie,859906.0
+87.6,2,4,4.45,Grodzisk Mazowiecki,804021.0
+77.6,3,19,1.71,Piaseczno,956957.0
+70.8,3,15,1.64,Pruszkow,815295.0
+40.7,3,40,2.61,Blonie,475749.0
+61.5,1,36,4.71,Blonie,589360.0
+59.2,4,39,0.33,Pruszkow,768896.0
+51.9,4,8,1.83,Blonie,631870.0
+82.0,4,4,4.3,Grodzisk Mazowiecki,854424.0
+67.2,4,41,2.04,Grodzisk Mazowiecki,686108.0
+40.3,4,1,1.08,Pruszkow,794018.0
+49.3,3,8,2.18,Blonie,613554.0
+79.4,2,42,1.99,Blonie,688843.0
+39.9,3,35,4.59,Piaseczno,565081.0
+90.3,3,21,3.83,Blonie,792267.0
+67.2,3,21,2.58,Grodzisk Mazowiecki,760870.0
+66.2,3,21,4.94,Minsk Mazowiecki,662145.0
+73.5,1,33,2.38,Minsk Mazowiecki,690581.0
+88.6,2,28,0.39,Minsk Mazowiecki,845057.0
+57.6,4,37,1.39,Minsk Mazowiecki,703315.0
+79.1,3,45,2.24,Blonie,704098.0
+71.8,3,32,0.87,Blonie,728627.0
+52.4,2,17,4.74,Piaseczno,663980.0
+92.1,2,6,3.86,Blonie,773940.0
+86.8,4,0,1.41,Minsk Mazowiecki,960226.0
+77.8,3,32,2.99,Pruszkow,832973.0
+90.3,3,0,3.64,Pruszkow,996255.0
+91.4,2,23,4.71,Grodzisk Mazowiecki,794588.0
+81.0,3,3,4.42,Grodzisk Mazowiecki,865645.0
+89.4,2,3,2.62,Blonie,876189.0
+80.3,3,17,3.9,Pruszkow,851496.0
+79.2,2,26,2.85,Minsk Mazowiecki,809201.0
+75.2,2,42,2.81,Minsk Mazowiecki,694756.0
+83.9,3,31,0.66,Minsk Mazowiecki,840549.0
+45.3,4,32,0.72,Blonie,623915.0
+92.3,1,27,2.69,Blonie,779431.0
+91.7,4,41,1.42,Piaseczno,986309.0
+36.9,2,40,0.2,Minsk Mazowiecki,585021.0
+88.7,2,35,3.64,Minsk Mazowiecki,765260.0
+43.4,1,5,0.26,Blonie,632804.0
+56.8,2,15,3.02,Blonie,646635.0
+83.3,3,33,2.74,Piaseczno,920717.0
+45.4,1,22,4.85,Piaseczno,568321.0
+88.2,2,49,2.47,Grodzisk Mazowiecki,797770.0
+89.1,4,41,0.41,Pruszkow,993868.0
+68.0,2,23,2.8,Minsk Mazowiecki,706399.0
+35.4,3,48,4.22,Minsk Mazowiecki,359937.0
+53.7,2,12,4.98,Piaseczno,702282.0
+75.1,3,17,2.21,Piaseczno,907486.0
+98.8,2,12,1.67,Grodzisk Mazowiecki,990518.0
+76.1,2,48,4.54,Pruszkow,674635.0
+51.9,2,36,1.04,Grodzisk Mazowiecki,654772.0
+76.2,1,42,3.12,Pruszkow,773900.0
+70.1,2,38,2.09,Minsk Mazowiecki,666483.0
+85.7,3,41,0.3,Grodzisk Mazowiecki,864084.0
+42.0,4,16,1.8,Piaseczno,753814.0
+84.5,4,14,1.4,Grodzisk Mazowiecki,909987.0
+70.2,3,17,3.46,Grodzisk Mazowiecki,748645.0
+97.6,2,22,4.75,Minsk Mazowiecki,787061.0
+57.2,2,29,1.41,Piaseczno,812998.0
+76.1,2,33,4.08,Piaseczno,797319.0
+95.6,2,3,0.37,Blonie,957338.0
+41.7,3,2,2.74,Blonie,579729.0
+95.9,3,6,0.45,Blonie,940049.0
+79.7,2,17,4.68,Minsk Mazowiecki,721997.0
+39.4,2,41,3.86,Grodzisk Mazowiecki,498052.0
+54.6,4,6,3.32,Piaseczno,758706.0
+81.0,3,39,4.14,Piaseczno,817466.0
+39.4,2,5,3.27,Grodzisk Mazowiecki,574779.0
+72.8,4,21,4.85,Piaseczno,850203.0
+57.5,4,0,3.6,Grodzisk Mazowiecki,717899.0
+75.4,2,3,4.63,Minsk Mazowiecki,759315.0
+38.0,2,45,2.63,Minsk Mazowiecki,508421.0
+91.6,3,48,0.67,Minsk Mazowiecki,848186.0
+98.3,4,49,2.69,Grodzisk Mazowiecki,868943.0
+98.0,4,42,0.72,Grodzisk Mazowiecki,989081.0
+83.7,2,28,3.0,Pruszkow,798763.0
+43.5,2,20,2.46,Piaseczno,680118.0
+84.3,3,25,3.15,Piaseczno,851540.0
+36.6,3,13,0.15,Pruszkow,749272.0
+36.4,2,8,1.05,Pruszkow,669337.0
+56.0,4,46,2.51,Minsk Mazowiecki,612977.0
+66.8,3,11,4.76,Pruszkow,738773.0
+85.1,4,41,1.98,Grodzisk Mazowiecki,801219.0
+79.4,4,5,2.18,Blonie,886476.0
+64.0,3,19,3.6,Grodzisk Mazowiecki,703368.0
+52.8,2,23,3.06,Pruszkow,773763.0
+99.8,3,26,1.56,Piaseczno,1012695.0
+62.7,2,37,2.11,Grodzisk Mazowiecki,660999.0
+64.3,3,7,1.17,Piaseczno,856283.0
+45.6,2,0,4.83,Grodzisk Mazowiecki,583415.0
+86.7,3,48,0.74,Piaseczno,975257.0
+80.1,2,48,1.92,Grodzisk Mazowiecki,793304.0
+49.4,2,23,0.23,Piaseczno,716863.0
+40.4,2,46,1.19,Blonie,537824.0
+79.2,1,6,3.92,Minsk Mazowiecki,773084.0
+77.5,3,18,1.09,Grodzisk Mazowiecki,881742.0
+52.8,3,21,0.49,Blonie,659073.0
+96.8,3,34,2.42,Minsk Mazowiecki,854903.0
+44.8,2,29,0.15,Grodzisk Mazowiecki,655912.0
+63.1,1,28,0.52,Blonie,666405.0
+96.3,1,21,4.06,Blonie,832879.0
+62.3,2,10,3.88,Blonie,624521.0
+76.5,4,19,4.58,Pruszkow,765697.0
+60.8,2,28,4.29,Piaseczno,657056.0
+52.8,2,40,3.45,Minsk Mazowiecki,506161.0
+99.0,2,41,0.36,Piaseczno,1002800.0
+61.6,2,33,3.94,Piaseczno,705382.0
+93.1,3,0,4.24,Piaseczno,983014.0
+49.9,3,30,4.02,Blonie,547627.0
+48.9,2,29,2.59,Piaseczno,665632.0
+37.0,1,47,1.24,Pruszkow,550793.0
+77.4,2,17,4.24,Grodzisk Mazowiecki,807256.0
+59.0,2,16,3.66,Blonie,650361.0
+91.2,2,37,4.91,Minsk Mazowiecki,749649.0
+65.8,4,13,0.86,Grodzisk Mazowiecki,864000.0
+97.9,3,22,1.21,Grodzisk Mazowiecki,918314.0
+47.1,3,24,1.14,Grodzisk Mazowiecki,643724.0
+91.5,2,14,3.98,Piaseczno,911634.0
+85.5,2,45,1.02,Piaseczno,875577.0
+85.1,3,21,0.43,Blonie,828828.0
+89.9,3,2,4.99,Piaseczno,947316.0
+84.5,3,18,0.22,Piaseczno,1046972.0
+75.7,2,43,4.19,Piaseczno,750616.0
+43.5,3,33,1.89,Blonie,571245.0
+37.1,2,34,4.22,Blonie,419724.0
+94.9,4,49,2.82,Pruszkow,899051.0
+75.1,3,0,4.52,Pruszkow,872576.0
+86.8,3,20,4.64,Pruszkow,818754.0
+66.3,2,28,0.14,Pruszkow,777698.0
+42.6,3,5,0.47,Grodzisk Mazowiecki,665731.0
+43.1,2,36,1.33,Grodzisk Mazowiecki,614308.0
+79.6,2,0,3.38,Pruszkow,888816.0
+63.0,2,0,4.45,Pruszkow,765796.0
+48.0,3,26,2.35,Minsk Mazowiecki,652808.0
+67.0,2,20,3.07,Grodzisk Mazowiecki,685000.0
+39.2,2,15,1.02,Minsk Mazowiecki,633225.0
+72.8,4,43,4.04,Minsk Mazowiecki,666210.0
+52.5,2,39,4.84,Piaseczno,585849.0
+86.8,3,25,1.42,Blonie,848137.0
+55.2,2,15,2.52,Grodzisk Mazowiecki,685232.0
+64.6,1,27,0.52,Pruszkow,788184.0
+35.8,3,0,2.84,Pruszkow,677909.0
+39.7,1,35,2.56,Blonie,466457.0
+60.5,2,9,0.81,Grodzisk Mazowiecki,770220.0
+66.2,3,42,2.27,Pruszkow,741611.0
+74.0,3,16,1.74,Pruszkow,888950.0
+54.0,3,22,2.66,Piaseczno,698500.0
+80.2,2,6,2.97,Minsk Mazowiecki,774866.0
+90.9,1,43,0.14,Pruszkow,912676.0
+85.7,3,6,3.83,Grodzisk Mazowiecki,880646.0
+37.6,3,43,3.59,Blonie,504686.0
+66.2,4,14,1.89,Piaseczno,870720.0
+41.8,4,33,0.36,Grodzisk Mazowiecki,604273.0
+50.7,4,45,3.8,Piaseczno,623993.0
+99.1,2,44,4.78,Minsk Mazowiecki,790967.0
+44.3,2,3,1.28,Pruszkow,700792.0
+67.4,3,13,1.69,Grodzisk Mazowiecki,762028.0
+75.2,2,13,1.0,Blonie,818310.0
+80.7,2,15,2.93,Minsk Mazowiecki,802746.0
+71.4,4,6,0.86,Minsk Mazowiecki,813424.0
+35.6,4,31,1.85,Piaseczno,623750.0
+56.2,2,18,3.52,Minsk Mazowiecki,653940.0
+68.7,1,1,2.84,Grodzisk Mazowiecki,790085.0
+40.7,2,9,1.99,Piaseczno,656079.0
+57.8,4,49,2.16,Minsk Mazowiecki,569833.0
+37.2,4,16,2.85,Blonie,555756.0
+40.1,2,36,0.13,Grodzisk Mazowiecki,597818.0
+60.8,1,11,0.48,Blonie,718352.0
+43.6,4,5,4.42,Blonie,585540.0
+71.9,2,21,0.48,Piaseczno,865812.0
+79.8,3,31,3.56,Pruszkow,811536.0
+87.0,4,40,4.61,Piaseczno,826728.0
+48.0,1,19,1.43,Grodzisk Mazowiecki,611703.0
+45.9,3,0,1.92,Grodzisk Mazowiecki,714743.0
+41.8,1,46,2.89,Piaseczno,563422.0
+76.4,2,5,4.42,Pruszkow,776412.0
+80.9,4,18,4.72,Piaseczno,890553.0
+37.1,2,17,3.72,Grodzisk Mazowiecki,517998.0
+95.9,4,5,0.52,Pruszkow,1120435.0
+38.4,3,44,3.38,Grodzisk Mazowiecki,468558.0
+70.2,2,32,2.11,Pruszkow,760129.0
+81.1,2,22,2.41,Pruszkow,876851.0
+91.6,2,22,0.34,Piaseczno,981506.0
+81.4,2,25,1.04,Piaseczno,916454.0
+87.1,1,12,3.97,Piaseczno,847198.0
+57.1,2,6,2.32,Pruszkow,756259.0
+88.0,2,14,1.58,Pruszkow,954644.0
+40.2,3,43,1.98,Grodzisk Mazowiecki,554758.0
+93.2,3,26,4.29,Blonie,784558.0
+70.6,3,25,3.77,Piaseczno,808001.0
+88.1,1,32,1.43,Grodzisk Mazowiecki,850134.0
+64.4,2,14,0.68,Grodzisk Mazowiecki,788319.0
+76.8,3,35,1.33,Minsk Mazowiecki,764624.0
+69.2,2,44,4.61,Piaseczno,728947.0
+82.6,1,26,2.95,Grodzisk Mazowiecki,793689.0
+40.3,4,4,2.71,Minsk Mazowiecki,589417.0
+38.9,3,1,3.02,Piaseczno,709767.0
+51.1,3,32,1.89,Pruszkow,726165.0
+45.4,1,15,4.05,Minsk Mazowiecki,520953.0
+91.7,3,22,2.66,Pruszkow,944947.0
+49.2,3,37,0.67,Blonie,550834.0
+98.4,3,15,0.73,Blonie,935697.0
+56.9,3,13,2.73,Blonie,682311.0
+46.8,4,28,4.69,Blonie,496621.0
+86.3,3,25,1.61,Grodzisk Mazowiecki,882205.0
+77.8,2,34,4.36,Blonie,635241.0
+67.4,3,14,3.84,Grodzisk Mazowiecki,741124.0
+71.1,3,2,1.31,Grodzisk Mazowiecki,874112.0
+81.7,3,22,0.28,Piaseczno,989414.0
+49.8,2,28,0.6,Grodzisk Mazowiecki,636619.0
+99.8,2,33,3.67,Grodzisk Mazowiecki,869401.0
+98.4,4,32,1.08,Blonie,975297.0
+77.3,3,40,1.92,Grodzisk Mazowiecki,808655.0
+48.0,4,40,2.56,Pruszkow,664000.0
+79.2,3,22,3.65,Blonie,682771.0
+39.7,3,6,0.65,Minsk Mazowiecki,646219.0
+37.0,3,2,2.09,Blonie,633691.0
+51.7,4,31,2.48,Grodzisk Mazowiecki,697858.0
+65.1,3,30,2.75,Pruszkow,776943.0
+91.4,3,17,4.11,Blonie,791020.0
+82.3,2,42,0.94,Pruszkow,872168.0
+83.3,2,6,4.06,Minsk Mazowiecki,816204.0
+62.7,3,40,3.5,Minsk Mazowiecki,649416.0
+57.5,2,0,2.82,Piaseczno,799779.0
+59.1,2,13,3.53,Piaseczno,771851.0
+99.2,2,31,2.12,Blonie,862339.0
+37.6,2,5,0.78,Piaseczno,716613.0
+91.4,2,38,3.36,Pruszkow,848833.0
+72.6,2,9,2.67,Piaseczno,875736.0
+63.5,4,6,3.23,Pruszkow,849110.0
+82.1,3,25,1.76,Piaseczno,948553.0
+66.6,2,33,4.54,Piaseczno,674359.0
+91.8,1,29,2.98,Piaseczno,863966.0
+93.5,3,35,0.52,Grodzisk Mazowiecki,971009.0
+62.4,2,20,2.3,Grodzisk Mazowiecki,720697.0
+53.0,4,16,3.81,Piaseczno,740169.0
+73.5,3,32,3.99,Pruszkow,777093.0
+94.3,3,9,2.52,Blonie,950249.0
+48.7,2,46,4.48,Minsk Mazowiecki,459411.0
+75.5,3,41,1.41,Grodzisk Mazowiecki,821699.0
+76.1,2,11,2.11,Piaseczno,902808.0
+82.7,4,15,4.5,Minsk Mazowiecki,745685.0
+43.6,3,40,4.49,Grodzisk Mazowiecki,482154.0
+81.5,2,31,3.46,Blonie,699489.0
+94.1,2,14,4.31,Pruszkow,943093.0
+46.7,2,26,0.53,Piaseczno,766119.0
+50.4,3,27,4.34,Blonie,545316.0
+98.1,2,16,1.67,Grodzisk Mazowiecki,942817.0
+46.8,3,45,0.97,Piaseczno,661871.0
+90.5,2,49,1.27,Minsk Mazowiecki,846527.0
+67.0,3,1,2.15,Pruszkow,826463.0
+51.1,4,35,1.33,Grodzisk Mazowiecki,676083.0
+91.6,3,49,1.67,Pruszkow,977934.0
+63.9,3,6,0.76,Piaseczno,880006.0
+68.5,2,12,1.55,Blonie,706349.0
+58.4,1,14,2.9,Pruszkow,665436.0
+73.5,3,24,2.27,Minsk Mazowiecki,835020.0
+45.6,2,22,1.8,Grodzisk Mazowiecki,635059.0
+60.4,2,21,3.76,Minsk Mazowiecki,601028.0
+98.0,1,25,4.48,Pruszkow,875426.0
+51.8,2,32,3.81,Blonie,506611.0
+77.7,1,10,1.73,Blonie,723393.0
+56.1,4,9,3.75,Minsk Mazowiecki,695244.0
+85.3,2,24,0.84,Piaseczno,957614.0
+43.5,3,36,0.74,Piaseczno,719950.0
+98.0,1,47,1.79,Blonie,806997.0
+64.5,3,42,4.06,Minsk Mazowiecki,614137.0
+50.3,2,37,1.31,Minsk Mazowiecki,532955.0
+39.8,4,40,0.41,Minsk Mazowiecki,623735.0
+46.0,4,44,0.75,Pruszkow,660851.0
+68.8,2,23,4.31,Piaseczno,731037.0
+56.9,4,39,3.21,Piaseczno,701764.0
+88.9,4,45,1.34,Pruszkow,868939.0
+63.0,4,32,2.82,Grodzisk Mazowiecki,695923.0
+51.2,4,16,2.69,Pruszkow,716934.0
+75.1,2,23,3.31,Minsk Mazowiecki,712465.0
+80.9,3,36,1.24,Pruszkow,837165.0
+45.9,1,1,4.34,Minsk Mazowiecki,580531.0
+45.9,1,31,1.62,Blonie,551242.0
+37.4,4,23,3.5,Minsk Mazowiecki,505979.0
+82.9,2,8,0.18,Piaseczno,984554.0
+78.1,3,3,1.93,Pruszkow,958344.0
+65.9,4,16,1.82,Minsk Mazowiecki,763076.0
+89.9,4,16,2.76,Grodzisk Mazowiecki,879384.0
+87.4,4,49,0.46,Blonie,835592.0
+73.0,2,47,3.97,Grodzisk Mazowiecki,628765.0
+91.4,1,29,1.17,Grodzisk Mazowiecki,859564.0
+48.4,2,39,3.42,Grodzisk Mazowiecki,548781.0
+42.3,2,10,4.04,Blonie,549256.0
+52.5,1,20,2.85,Blonie,630200.0
+38.7,2,20,3.73,Blonie,521178.0
+69.5,3,17,3.34,Blonie,702144.0
+95.9,3,28,1.84,Grodzisk Mazowiecki,997920.0
+37.6,2,23,4.06,Piaseczno,593048.0
+42.9,3,9,1.54,Piaseczno,709309.0
+64.4,2,44,2.9,Blonie,602236.0
+95.7,1,16,3.75,Pruszkow,891993.0
+55.6,3,17,1.96,Minsk Mazowiecki,644863.0
+68.0,3,41,1.58,Pruszkow,752873.0
+37.7,3,47,2.35,Pruszkow,563783.0
+44.6,1,19,4.11,Pruszkow,609426.0
+99.1,4,36,4.66,Piaseczno,966846.0
+97.7,3,44,2.77,Minsk Mazowiecki,805758.0
+35.3,3,17,3.34,Pruszkow,590002.0
+96.9,3,16,4.53,Blonie,850098.0
+76.5,4,8,0.58,Piaseczno,996156.0
+91.4,3,13,1.24,Blonie,929536.0
+64.6,3,48,3.57,Blonie,577459.0
+68.5,4,28,4.14,Pruszkow,804987.0
+66.8,3,30,4.3,Blonie,626673.0
+78.3,2,3,2.13,Minsk Mazowiecki,851132.0
+44.1,3,17,0.54,Blonie,624477.0
+36.9,2,19,2.25,Pruszkow,618152.0
+55.0,2,46,1.23,Blonie,540219.0
+80.8,3,42,1.53,Piaseczno,858797.0
+48.1,4,43,3.88,Piaseczno,628476.0
+78.8,4,8,0.47,Piaseczno,1011702.0
+98.0,2,12,4.16,Grodzisk Mazowiecki,973636.0
+41.1,3,14,2.2,Piaseczno,684143.0
+78.7,2,26,3.02,Piaseczno,805301.0
+63.8,4,14,0.54,Grodzisk Mazowiecki,882675.0
+91.4,4,27,1.75,Piaseczno,1030765.0
+46.5,3,36,0.54,Pruszkow,668105.0
+80.0,4,18,4.81,Piaseczno,874658.0
+89.5,3,25,4.06,Piaseczno,927756.0
+96.4,3,25,2.35,Grodzisk Mazowiecki,930315.0
+79.4,1,24,1.2,Pruszkow,880175.0
+67.3,2,25,4.67,Blonie,592232.0
+75.2,3,25,1.79,Minsk Mazowiecki,800114.0
+91.5,3,45,0.89,Pruszkow,925059.0
+72.1,2,27,2.86,Blonie,609938.0
+37.0,4,48,4.72,Pruszkow,516288.0
+95.5,2,17,0.12,Blonie,886622.0
+79.8,3,31,1.27,Blonie,823605.0
+79.0,3,2,4.7,Pruszkow,824075.0
+49.0,3,1,0.94,Grodzisk Mazowiecki,669710.0
+77.8,3,32,0.65,Pruszkow,844221.0
+60.6,2,41,2.89,Pruszkow,683156.0
+77.3,2,18,4.32,Blonie,704795.0
+41.9,3,16,2.44,Minsk Mazowiecki,545821.0
+77.8,3,43,4.97,Blonie,608028.0
+100.0,2,32,3.43,Piaseczno,946858.0
+38.1,3,11,0.46,Pruszkow,746467.0
+98.5,2,48,4.96,Pruszkow,795898.0
+61.4,3,2,2.1,Grodzisk Mazowiecki,791775.0
+91.6,4,42,1.51,Blonie,797139.0
+85.9,2,48,2.83,Grodzisk Mazowiecki,779977.0
+71.9,1,25,1.59,Pruszkow,833874.0
+83.0,3,34,0.52,Blonie,843126.0
+92.1,3,7,0.11,Blonie,991632.0
+61.3,3,35,2.3,Piaseczno,789132.0
+56.3,4,6,4.2,Piaseczno,822208.0
+78.4,4,45,2.9,Minsk Mazowiecki,744159.0
+87.5,4,45,5.0,Piaseczno,887997.0
+84.5,3,35,1.51,Blonie,775877.0
+86.9,2,15,1.47,Piaseczno,963640.0
+63.3,2,23,0.88,Minsk Mazowiecki,722450.0
+88.2,2,0,0.9,Pruszkow,980916.0
+42.8,3,48,1.5,Piaseczno,570980.0
+70.4,2,24,3.98,Blonie,679079.0
+35.4,4,9,4.54,Pruszkow,575802.0
+56.1,3,15,4.88,Blonie,570675.0
+58.8,3,15,1.24,Pruszkow,855638.0
+60.8,2,7,4.42,Blonie,641863.0
+80.2,1,28,1.71,Piaseczno,922106.0
+60.3,1,38,0.65,Piaseczno,760916.0
+64.2,2,27,4.36,Minsk Mazowiecki,633565.0
+50.4,1,5,3.22,Pruszkow,676080.0
+59.3,3,15,0.91,Minsk Mazowiecki,715539.0
+49.8,4,19,2.21,Grodzisk Mazowiecki,701554.0
+39.8,4,15,1.51,Piaseczno,712923.0
+74.2,3,6,3.71,Pruszkow,868236.0
+78.4,2,40,2.32,Minsk Mazowiecki,713686.0
+75.3,4,13,4.95,Minsk Mazowiecki,735539.0
+65.1,4,42,0.37,Grodzisk Mazowiecki,771642.0
+59.7,2,25,1.84,Minsk Mazowiecki,702809.0
+91.1,3,25,2.46,Blonie,827570.0
+68.7,2,13,2.57,Piaseczno,868210.0
+66.1,4,6,1.65,Minsk Mazowiecki,774954.0
+36.7,4,32,3.67,Minsk Mazowiecki,508196.0
+57.2,1,25,4.39,Grodzisk Mazowiecki,568372.0
+59.7,4,44,4.7,Blonie,590672.0
+60.9,3,19,4.04,Minsk Mazowiecki,622140.0
+72.7,4,2,4.27,Piaseczno,851598.0
+69.7,2,3,2.8,Piaseczno,819011.0
+74.5,4,25,4.15,Minsk Mazowiecki,733091.0
+84.7,1,10,1.59,Blonie,843231.0
+87.8,2,1,2.05,Piaseczno,1007294.0
+81.7,1,13,1.65,Piaseczno,913873.0
+97.1,4,43,2.39,Blonie,833584.0
+36.2,4,29,1.5,Blonie,541340.0
+47.7,4,48,4.81,Minsk Mazowiecki,484684.0
+35.5,4,11,1.63,Pruszkow,694178.0
+77.1,1,25,0.58,Grodzisk Mazowiecki,828216.0
+93.4,2,43,2.68,Pruszkow,934692.0
+50.8,1,32,0.38,Pruszkow,704589.0
+95.3,2,12,0.64,Piaseczno,1063424.0
+38.9,2,13,1.18,Blonie,577644.0
+95.7,2,23,2.38,Piaseczno,965498.0
+57.9,2,33,2.22,Grodzisk Mazowiecki,668922.0
+41.6,2,43,4.02,Minsk Mazowiecki,438880.0
+66.6,2,25,3.72,Grodzisk Mazowiecki,683753.0
+51.7,2,20,2.19,Piaseczno,759278.0
+53.5,4,27,1.74,Piaseczno,756739.0
+55.0,3,47,1.65,Piaseczno,724620.0
+87.2,4,35,3.89,Piaseczno,814560.0
+70.0,2,39,0.36,Pruszkow,816140.0
+55.2,2,1,0.16,Minsk Mazowiecki,739136.0
+74.7,3,41,4.0,Pruszkow,759308.0
+81.5,2,8,2.44,Piaseczno,918713.0
+52.7,2,22,0.74,Blonie,653246.0
+61.9,2,14,1.25,Pruszkow,797540.0
+42.9,2,12,4.67,Piaseczno,628890.0
+46.8,2,22,4.31,Piaseczno,575061.0
+79.3,2,16,3.58,Minsk Mazowiecki,761742.0
+46.8,3,47,2.46,Grodzisk Mazowiecki,541388.0
+69.1,1,1,2.65,Pruszkow,857636.0
+81.1,2,19,4.88,Pruszkow,774104.0
+41.9,4,19,4.83,Pruszkow,638857.0
+71.9,2,45,1.15,Piaseczno,814054.0
+51.7,2,2,4.07,Minsk Mazowiecki,558237.0
+97.6,4,11,1.07,Piaseczno,1069712.0
+66.4,2,39,1.15,Piaseczno,821834.0
+87.4,1,1,3.41,Blonie,833330.0
+70.8,2,35,2.08,Minsk Mazowiecki,665919.0
+37.8,2,13,4.66,Pruszkow,611386.0
+76.2,3,15,0.54,Grodzisk Mazowiecki,882763.0
+96.8,4,18,2.61,Pruszkow,1034045.0
+74.1,2,33,4.6,Piaseczno,717745.0
+88.2,3,43,4.53,Minsk Mazowiecki,722122.0
+92.5,3,45,0.87,Minsk Mazowiecki,878877.0
+49.8,2,5,1.9,Minsk Mazowiecki,649905.0
+48.8,3,12,3.13,Blonie,511276.0
+74.7,2,35,0.88,Pruszkow,838577.0
+61.7,2,21,4.84,Blonie,523559.0
+89.6,1,17,4.58,Grodzisk Mazowiecki,765579.0
+93.5,2,11,0.92,Piaseczno,993814.0
+58.0,2,29,0.69,Blonie,698777.0
+50.4,4,39,0.52,Blonie,682691.0
+85.7,1,6,4.56,Piaseczno,882647.0
+52.9,2,31,1.05,Minsk Mazowiecki,631498.0
+88.5,2,47,2.14,Piaseczno,880150.0
+62.5,3,18,2.3,Pruszkow,824956.0
+78.4,3,5,3.04,Piaseczno,857197.0
+41.2,3,19,0.45,Minsk Mazowiecki,603947.0
+75.6,3,26,1.21,Piaseczno,932421.0
+64.4,4,42,4.66,Blonie,627968.0
+73.1,2,36,4.55,Grodzisk Mazowiecki,689792.0
+45.9,3,47,3.93,Blonie,438651.0
+82.9,4,6,0.2,Grodzisk Mazowiecki,1006086.0
+91.1,4,4,1.7,Piaseczno,1096443.0
+49.1,4,10,3.18,Pruszkow,745748.0
+41.2,2,14,1.45,Piaseczno,623880.0
+36.5,2,2,4.56,Minsk Mazowiecki,510938.0
+76.7,2,4,3.21,Piaseczno,901457.0
+74.5,3,22,0.45,Grodzisk Mazowiecki,843031.0
+70.5,2,36,4.55,Blonie,612100.0
+50.1,2,8,4.79,Pruszkow,631496.0
+60.4,4,14,0.48,Piaseczno,857152.0
+73.6,2,2,2.71,Piaseczno,930618.0
+67.3,4,28,1.59,Blonie,742552.0
+99.2,2,5,2.02,Pruszkow,998921.0
+43.9,2,16,0.98,Piaseczno,682702.0
+80.2,2,25,2.93,Piaseczno,834971.0
+61.3,3,20,4.79,Grodzisk Mazowiecki,628433.0
+62.8,2,7,2.57,Grodzisk Mazowiecki,746596.0
+81.6,2,20,0.51,Minsk Mazowiecki,868867.0
+80.0,4,10,3.14,Blonie,825335.0
+99.4,2,37,1.77,Pruszkow,938297.0
+43.3,3,7,4.29,Piaseczno,691219.0
+41.8,3,41,2.23,Piaseczno,668235.0
+82.1,2,23,1.04,Minsk Mazowiecki,826101.0
+72.6,3,34,1.04,Piaseczno,838438.0
+52.8,2,13,3.87,Blonie,581208.0
+40.2,3,13,1.4,Minsk Mazowiecki,681502.0
+40.6,2,9,3.86,Blonie,483551.0
+93.1,3,11,1.11,Minsk Mazowiecki,932015.0
+47.5,2,37,1.68,Piaseczno,673823.0
+56.0,3,43,2.38,Minsk Mazowiecki,623350.0
+49.7,2,45,4.72,Grodzisk Mazowiecki,444533.0
+58.1,2,33,4.67,Pruszkow,675177.0
+39.5,2,40,1.11,Piaseczno,672469.0
+68.7,2,9,1.86,Pruszkow,831156.0
+39.4,4,16,0.83,Piaseczno,822699.0
+87.0,2,16,2.6,Pruszkow,950831.0
+50.2,4,2,2.36,Grodzisk Mazowiecki,760633.0
+70.1,4,30,4.51,Pruszkow,795927.0
+92.2,3,0,4.66,Minsk Mazowiecki,898161.0
+77.3,2,11,1.98,Pruszkow,886243.0
+69.6,2,38,2.51,Piaseczno,773671.0
+56.1,3,3,4.49,Blonie,596093.0
+56.6,2,41,4.05,Pruszkow,608279.0
+78.5,1,12,0.12,Pruszkow,918073.0
+99.6,3,33,1.67,Pruszkow,996964.0
+78.0,4,41,2.17,Piaseczno,918349.0
+71.3,3,20,1.23,Pruszkow,807825.0
+82.5,2,21,1.08,Piaseczno,980448.0
+65.2,3,3,0.29,Piaseczno,894644.0
+38.9,2,17,3.25,Blonie,500264.0
+71.5,2,4,1.39,Minsk Mazowiecki,785568.0
+97.2,4,18,0.36,Piaseczno,1153028.0
+46.4,2,1,1.23,Grodzisk Mazowiecki,684001.0
+79.9,2,11,4.03,Pruszkow,856643.0
+48.1,1,16,4.27,Grodzisk Mazowiecki,577698.0
+69.8,4,9,2.47,Pruszkow,837400.0
+41.3,3,33,2.14,Blonie,528197.0
+64.3,3,5,4.89,Piaseczno,812730.0
+84.2,3,7,1.08,Minsk Mazowiecki,879103.0
+57.6,2,10,1.16,Piaseczno,840669.0
+78.2,2,11,1.53,Pruszkow,895868.0
+86.7,2,8,0.95,Minsk Mazowiecki,936610.0
+95.3,1,1,1.96,Piaseczno,1072925.0
+50.3,2,7,4.56,Minsk Mazowiecki,517265.0
+61.0,4,10,3.12,Pruszkow,757256.0
+44.9,1,35,2.12,Blonie,495145.0
+99.5,2,9,4.68,Blonie,888063.0
+95.3,2,20,0.34,Piaseczno,1057574.0
+70.1,2,19,1.13,Grodzisk Mazowiecki,761857.0
+89.7,4,47,2.87,Pruszkow,904968.0
+68.9,2,7,3.12,Piaseczno,804888.0
+75.5,2,35,0.29,Piaseczno,912916.0
+40.8,3,28,2.07,Blonie,558869.0
+84.1,2,41,3.28,Minsk Mazowiecki,706157.0
+43.3,2,11,3.52,Pruszkow,634721.0
+88.7,2,13,3.23,Minsk Mazowiecki,869541.0
+85.8,3,47,1.67,Pruszkow,820439.0
+81.1,4,49,0.56,Grodzisk Mazowiecki,856333.0
+37.4,3,20,2.19,Blonie,505493.0
+54.7,2,21,0.73,Grodzisk Mazowiecki,713314.0
+52.1,4,20,4.74,Piaseczno,704133.0
+58.4,2,43,2.43,Blonie,640395.0
+40.7,1,49,1.65,Piaseczno,581411.0
+95.9,2,29,3.85,Grodzisk Mazowiecki,891366.0
+71.0,2,38,2.54,Pruszkow,739585.0
+54.9,3,19,1.62,Piaseczno,768449.0
+60.8,3,23,4.08,Minsk Mazowiecki,652512.0
+64.1,4,22,4.35,Pruszkow,755153.0
+74.0,3,6,3.4,Pruszkow,847147.0
+68.5,3,8,0.33,Grodzisk Mazowiecki,850435.0
+94.8,1,0,2.87,Grodzisk Mazowiecki,962699.0
+67.3,1,25,3.84,Blonie,607447.0
+99.5,3,37,0.77,Blonie,880775.0
+90.3,2,37,1.22,Minsk Mazowiecki,817054.0
+48.6,4,43,4.42,Pruszkow,621597.0
+95.5,2,21,0.2,Minsk Mazowiecki,1012196.0
+42.6,1,43,3.79,Minsk Mazowiecki,428681.0
+88.1,2,9,2.42,Grodzisk Mazowiecki,957959.0
+59.7,2,5,2.29,Minsk Mazowiecki,706675.0
+92.1,1,16,0.13,Minsk Mazowiecki,910306.0
+91.4,3,49,4.12,Piaseczno,824992.0
+87.4,2,37,1.86,Blonie,780160.0
+86.4,3,23,2.75,Blonie,785716.0
+54.8,2,9,3.42,Pruszkow,688609.0
+40.3,2,7,3.54,Blonie,478538.0
+61.2,2,20,4.78,Pruszkow,736784.0
+46.3,4,5,2.7,Piaseczno,786232.0
+80.2,2,20,2.06,Blonie,787548.0
+57.5,3,38,4.77,Piaseczno,652580.0
+98.4,2,23,3.25,Blonie,845233.0
+76.7,3,32,1.56,Blonie,740093.0
+88.5,2,17,0.72,Piaseczno,962884.0
+43.6,3,27,4.23,Minsk Mazowiecki,538722.0
+91.0,3,31,1.87,Minsk Mazowiecki,854533.0
+95.0,4,11,3.34,Minsk Mazowiecki,922072.0
+66.7,2,47,2.41,Minsk Mazowiecki,590527.0
+74.4,1,41,1.07,Blonie,692337.0
+84.7,1,26,3.05,Grodzisk Mazowiecki,757099.0
+46.4,4,9,0.4,Piaseczno,828422.0
+67.7,3,45,2.13,Grodzisk Mazowiecki,739658.0
+60.9,3,41,2.78,Grodzisk Mazowiecki,703291.0
+44.5,2,31,2.24,Pruszkow,613431.0
+58.9,2,41,3.77,Minsk Mazowiecki,533963.0
+39.4,1,25,4.16,Blonie,426542.0
+36.7,4,24,3.88,Minsk Mazowiecki,492821.0
+43.8,3,10,0.29,Minsk Mazowiecki,692037.0
+97.6,4,22,1.05,Grodzisk Mazowiecki,957017.0
+70.7,2,33,2.73,Pruszkow,717168.0
+97.8,3,39,4.68,Minsk Mazowiecki,788507.0
+63.1,3,22,4.19,Piaseczno,769695.0
+55.3,2,28,4.23,Piaseczno,634076.0
+67.9,4,30,1.59,Minsk Mazowiecki,780173.0
+63.6,4,6,2.2,Grodzisk Mazowiecki,811560.0
+41.9,4,39,2.41,Grodzisk Mazowiecki,628004.0
+76.7,3,32,0.87,Blonie,760032.0
+49.0,2,20,0.25,Pruszkow,698306.0
+75.3,2,1,4.74,Grodzisk Mazowiecki,785056.0
+77.3,4,17,1.28,Blonie,841296.0
+44.9,1,46,1.28,Piaseczno,632075.0
+39.0,3,32,0.51,Piaseczno,657265.0
+85.7,3,36,4.65,Piaseczno,857955.0
+64.9,3,33,2.94,Minsk Mazowiecki,649697.0
+38.8,4,19,3.37,Pruszkow,640262.0
+99.7,2,34,4.57,Blonie,772313.0
+38.8,2,49,1.79,Pruszkow,577231.0
+80.2,1,17,3.15,Minsk Mazowiecki,718346.0
+98.9,2,45,0.29,Blonie,897190.0
+50.5,2,23,1.02,Blonie,644628.0
+44.2,2,7,4.17,Grodzisk Mazowiecki,586079.0
+42.9,4,29,3.86,Pruszkow,668417.0
+54.7,4,43,1.82,Pruszkow,722315.0
+41.6,2,9,1.95,Grodzisk Mazowiecki,656163.0
+80.0,2,22,2.71,Piaseczno,876473.0
+39.0,4,48,0.1,Minsk Mazowiecki,605882.0
+68.1,1,10,1.28,Pruszkow,789201.0
+99.8,1,1,1.12,Grodzisk Mazowiecki,1003688.0
+87.9,2,25,1.33,Blonie,801192.0
+75.0,3,35,4.05,Grodzisk Mazowiecki,725213.0
+54.9,2,32,1.47,Piaseczno,746826.0
+75.6,4,46,1.04,Minsk Mazowiecki,801625.0
+69.3,2,12,2.57,Piaseczno,853397.0
+62.7,3,39,4.34,Blonie,568394.0
+43.5,2,24,1.28,Blonie,549992.0
+92.6,2,3,0.48,Blonie,873424.0
+64.2,3,41,1.85,Blonie,659266.0
+47.7,3,18,3.76,Grodzisk Mazowiecki,642536.0
+58.9,3,17,2.8,Blonie,660152.0
+61.9,3,36,4.1,Blonie,585857.0
+88.8,4,29,4.8,Grodzisk Mazowiecki,820592.0
+82.7,4,18,3.98,Blonie,770169.0
+85.0,3,22,3.06,Piaseczno,919049.0
+35.7,1,15,2.52,Piaseczno,598951.0
+62.1,1,0,0.3,Pruszkow,826634.0
+66.3,2,11,4.92,Piaseczno,750441.0
+36.2,3,23,1.98,Minsk Mazowiecki,547387.0
+51.9,2,33,0.85,Minsk Mazowiecki,689655.0
+84.4,2,7,3.37,Minsk Mazowiecki,793629.0
+43.9,4,17,1.49,Grodzisk Mazowiecki,671417.0
+69.8,4,47,2.97,Piaseczno,774500.0
+49.0,4,4,2.98,Minsk Mazowiecki,651170.0
+35.8,2,25,2.28,Pruszkow,609293.0
+50.7,3,29,4.2,Grodzisk Mazowiecki,652839.0
+98.4,2,12,1.4,Pruszkow,1018775.0
+87.1,2,18,2.3,Piaseczno,954077.0
+97.4,2,28,2.73,Blonie,785129.0
+66.7,2,2,3.35,Pruszkow,792894.0
+42.1,2,25,3.94,Blonie,528557.0
+70.6,4,39,2.03,Grodzisk Mazowiecki,763551.0
+64.5,2,11,3.27,Pruszkow,786470.0
+89.9,3,1,0.84,Pruszkow,1023017.0
+41.4,3,10,4.67,Grodzisk Mazowiecki,571027.0
+66.7,2,43,1.98,Grodzisk Mazowiecki,742283.0
+44.8,2,27,3.67,Minsk Mazowiecki,486398.0
+56.1,2,17,0.2,Piaseczno,883696.0
+82.9,3,12,1.11,Pruszkow,917722.0
+65.9,2,36,2.49,Pruszkow,726135.0
+59.4,2,21,4.4,Grodzisk Mazowiecki,606822.0
+60.6,2,11,2.68,Grodzisk Mazowiecki,707526.0
+64.9,3,1,4.66,Piaseczno,771633.0
+86.0,4,36,2.47,Grodzisk Mazowiecki,824158.0
+93.0,2,6,2.5,Blonie,842398.0
+97.1,3,25,0.69,Blonie,948722.0
+86.1,3,25,4.03,Blonie,756061.0
+55.5,4,23,1.31,Blonie,671215.0
+79.7,4,11,4.51,Piaseczno,893868.0
+63.4,3,15,4.56,Pruszkow,691261.0
+51.6,3,22,4.72,Blonie,552191.0
+89.7,4,39,2.65,Grodzisk Mazowiecki,858387.0
+37.5,2,8,3.42,Blonie,510509.0
+93.6,2,31,3.91,Piaseczno,912375.0
+65.0,1,14,0.74,Grodzisk Mazowiecki,822106.0
+76.4,4,36,3.04,Blonie,736889.0
+77.9,4,12,0.27,Pruszkow,973304.0
+93.2,2,4,2.54,Grodzisk Mazowiecki,897521.0
+76.4,3,10,0.86,Grodzisk Mazowiecki,815875.0
+74.9,2,9,1.0,Pruszkow,910737.0
+39.3,2,12,1.89,Grodzisk Mazowiecki,571311.0
+68.7,4,40,2.22,Blonie,619392.0
+44.8,2,45,3.15,Grodzisk Mazowiecki,511274.0
+82.9,1,49,0.46,Blonie,758284.0
+68.3,3,14,2.57,Pruszkow,850029.0
+79.2,3,41,0.99,Minsk Mazowiecki,824838.0
+37.7,1,6,2.91,Pruszkow,640171.0
+40.5,3,39,3.22,Blonie,505977.0
+81.6,3,27,2.83,Piaseczno,843158.0
+39.7,2,31,3.72,Pruszkow,554612.0
+39.6,2,34,1.74,Piaseczno,647795.0
+35.8,3,14,3.85,Piaseczno,615691.0
+97.2,2,47,2.22,Blonie,804446.0
+82.9,4,35,2.47,Blonie,786643.0
+58.0,4,20,3.28,Minsk Mazowiecki,676966.0
+54.3,4,5,0.19,Grodzisk Mazowiecki,805293.0
+57.7,2,0,3.3,Pruszkow,731812.0
+85.4,4,3,3.13,Blonie,809915.0
+78.0,2,10,1.62,Pruszkow,898279.0
+47.0,2,43,0.52,Piaseczno,690624.0
+46.3,1,25,0.55,Grodzisk Mazowiecki,640197.0
+41.4,1,36,4.62,Minsk Mazowiecki,458388.0
+77.9,3,22,3.48,Pruszkow,871918.0
+84.7,2,28,0.72,Grodzisk Mazowiecki,873479.0
+52.2,2,20,1.85,Minsk Mazowiecki,634794.0
+36.4,3,47,3.0,Pruszkow,558094.0
+40.3,2,44,4.19,Grodzisk Mazowiecki,478896.0
+97.9,3,44,0.31,Blonie,884823.0
+54.2,2,48,1.26,Pruszkow,697170.0
+85.0,4,26,4.46,Grodzisk Mazowiecki,806809.0
+75.6,4,38,0.14,Minsk Mazowiecki,820647.0
+59.8,2,39,1.09,Grodzisk Mazowiecki,701608.0
+48.4,2,12,4.8,Blonie,517365.0
+42.9,2,22,3.11,Pruszkow,621940.0
+75.0,4,15,1.38,Pruszkow,930026.0
+85.4,2,29,0.43,Pruszkow,961515.0
+76.9,2,3,0.24,Blonie,879144.0
+69.5,1,39,1.3,Minsk Mazowiecki,698511.0
+37.7,2,15,4.42,Pruszkow,487837.0
+98.0,2,30,2.14,Minsk Mazowiecki,886101.0
+86.9,4,41,3.63,Grodzisk Mazowiecki,821937.0
+54.0,2,24,4.6,Minsk Mazowiecki,574028.0
+98.7,2,43,2.1,Minsk Mazowiecki,823019.0
+74.1,4,11,1.04,Pruszkow,872238.0
+72.9,4,25,2.63,Piaseczno,890185.0
+83.6,2,36,4.55,Piaseczno,768364.0
+87.8,2,47,4.04,Blonie,734765.0
+77.7,2,32,0.42,Blonie,766240.0
+43.3,4,27,3.49,Piaseczno,626785.0
+57.0,2,8,2.9,Grodzisk Mazowiecki,705489.0
+95.3,4,11,4.55,Pruszkow,976285.0
+49.6,3,4,0.7,Pruszkow,813297.0
+59.2,3,27,2.72,Grodzisk Mazowiecki,701148.0
+63.1,1,34,4.41,Grodzisk Mazowiecki,580066.0
+63.6,2,4,2.11,Piaseczno,792493.0
+74.8,2,33,2.46,Blonie,690810.0
+96.3,2,45,0.45,Grodzisk Mazowiecki,877429.0
+50.6,3,33,1.46,Blonie,620276.0
+42.9,4,12,1.69,Minsk Mazowiecki,672927.0
+47.8,3,38,4.73,Pruszkow,585081.0
+92.7,3,41,1.49,Piaseczno,958972.0
+77.0,1,44,2.36,Pruszkow,761887.0
+53.6,2,47,3.39,Piaseczno,661810.0
+88.0,2,13,0.89,Minsk Mazowiecki,843886.0
+91.0,3,10,2.48,Pruszkow,940415.0
+90.0,4,41,3.72,Minsk Mazowiecki,850702.0
+94.7,3,37,4.35,Piaseczno,857551.0
+51.4,1,3,3.17,Grodzisk Mazowiecki,661731.0
+84.1,2,32,3.38,Pruszkow,855304.0
+64.9,3,6,0.72,Minsk Mazowiecki,745012.0
+89.7,2,40,4.73,Pruszkow,754271.0
+82.4,4,7,0.75,Pruszkow,1042341.0
+85.5,4,36,3.9,Pruszkow,826812.0
+77.7,3,9,1.4,Blonie,803331.0
+46.5,2,42,4.67,Minsk Mazowiecki,448274.0
+70.4,2,14,3.63,Minsk Mazowiecki,679386.0
+99.0,2,37,3.79,Pruszkow,913588.0
+95.9,2,14,1.17,Grodzisk Mazowiecki,929839.0
+37.8,2,4,2.27,Pruszkow,599727.0
+45.7,3,28,3.13,Blonie,574991.0
+43.6,3,18,3.87,Piaseczno,616513.0
+82.2,1,9,0.61,Blonie,819839.0
+88.2,2,11,4.82,Grodzisk Mazowiecki,841996.0
+48.9,2,3,4.46,Pruszkow,664207.0
+67.9,2,30,1.42,Minsk Mazowiecki,753170.0
+89.6,4,17,4.13,Pruszkow,946554.0
+82.6,1,15,2.64,Grodzisk Mazowiecki,805297.0
+70.2,2,39,2.36,Minsk Mazowiecki,713558.0
+73.4,2,35,1.64,Blonie,718733.0
+68.0,4,24,2.95,Piaseczno,811548.0
+54.3,3,22,3.68,Piaseczno,719112.0
+71.7,2,11,2.11,Pruszkow,810116.0
+79.8,3,33,3.18,Blonie,755915.0
+91.8,3,35,3.53,Grodzisk Mazowiecki,858524.0
+76.4,4,36,3.58,Piaseczno,834611.0
+84.5,2,2,0.35,Blonie,843952.0
+45.4,4,8,4.31,Pruszkow,707732.0
+65.0,4,17,2.35,Minsk Mazowiecki,760113.0
+35.6,4,42,1.39,Pruszkow,616211.0
+51.0,3,34,1.28,Pruszkow,707180.0
+82.2,3,33,2.47,Blonie,750498.0
+99.5,2,40,4.45,Piaseczno,883166.0
+41.4,3,13,1.95,Blonie,610477.0
+61.1,3,3,3.77,Minsk Mazowiecki,680498.0
+87.0,3,28,0.57,Blonie,856671.0
+48.3,2,40,2.43,Grodzisk Mazowiecki,573072.0
+71.1,3,44,4.96,Pruszkow,694794.0
+82.6,4,49,3.88,Piaseczno,808166.0
+75.0,2,14,1.13,Minsk Mazowiecki,805994.0
+47.2,4,27,2.56,Pruszkow,699199.0
+58.1,3,41,1.24,Blonie,611756.0
+85.9,4,15,2.11,Grodzisk Mazowiecki,909633.0
+71.0,2,11,3.92,Blonie,748830.0
+35.3,2,4,3.88,Pruszkow,593506.0
+84.5,4,33,1.22,Minsk Mazowiecki,829987.0
+37.3,2,41,4.62,Piaseczno,481278.0
+83.5,4,0,3.0,Pruszkow,923044.0
+48.2,2,38,1.96,Minsk Mazowiecki,614213.0
+97.3,3,31,2.56,Pruszkow,989741.0
+58.9,2,25,3.06,Grodzisk Mazowiecki,620411.0
+56.3,3,16,2.84,Blonie,649011.0
+44.7,2,47,2.48,Piaseczno,643045.0
+54.9,1,26,2.57,Minsk Mazowiecki,596086.0
+92.0,2,23,0.96,Piaseczno,980952.0
+99.8,1,34,4.08,Piaseczno,968627.0
+58.9,4,45,2.75,Piaseczno,671240.0
+64.2,4,41,0.74,Minsk Mazowiecki,809477.0
+81.9,2,38,3.85,Minsk Mazowiecki,712700.0
+92.6,3,25,4.67,Piaseczno,941713.0
+73.5,2,48,4.74,Blonie,552782.0
+60.4,3,37,1.91,Pruszkow,720832.0
+61.8,4,22,0.76,Piaseczno,830601.0
+80.2,4,21,2.64,Grodzisk Mazowiecki,846469.0
+35.2,2,3,0.65,Piaseczno,723432.0
+75.3,3,48,4.68,Minsk Mazowiecki,673404.0
+58.1,2,8,1.0,Pruszkow,757256.0
+86.6,4,3,1.34,Grodzisk Mazowiecki,976607.0
+41.0,1,6,2.09,Pruszkow,685147.0
+73.2,3,22,1.98,Pruszkow,887266.0
+66.3,3,1,3.99,Grodzisk Mazowiecki,742384.0
+76.8,3,48,2.34,Piaseczno,807758.0
+39.2,2,23,0.94,Piaseczno,676739.0
+72.7,4,39,1.41,Piaseczno,871982.0
+71.5,2,30,2.59,Blonie,725378.0
+71.4,3,46,0.82,Piaseczno,802497.0
+74.2,2,30,3.1,Grodzisk Mazowiecki,713612.0
+79.0,2,46,2.87,Blonie,642958.0
+87.3,3,39,3.6,Piaseczno,881133.0
+52.5,2,47,4.69,Blonie,499841.0
+88.6,2,42,4.57,Grodzisk Mazowiecki,706871.0
+67.4,2,33,4.74,Piaseczno,712361.0
+40.0,2,23,1.3,Minsk Mazowiecki,604370.0
+38.8,3,48,0.74,Grodzisk Mazowiecki,594136.0
+56.7,4,25,1.58,Pruszkow,803483.0
+86.0,1,15,4.49,Pruszkow,798104.0
+81.0,2,46,4.86,Grodzisk Mazowiecki,708283.0
+86.3,2,12,4.31,Pruszkow,862922.0
+68.6,1,14,0.64,Grodzisk Mazowiecki,829505.0
+63.6,3,26,4.74,Minsk Mazowiecki,637875.0
+44.6,3,3,2.17,Grodzisk Mazowiecki,650535.0
+56.3,2,15,0.15,Piaseczno,834164.0
+63.2,2,29,2.27,Piaseczno,793155.0
+40.8,1,43,0.33,Blonie,502209.0
+49.3,4,29,2.77,Pruszkow,694064.0
+73.9,4,35,1.76,Pruszkow,813002.0
+82.8,2,2,2.42,Grodzisk Mazowiecki,895671.0
+99.9,2,21,3.1,Pruszkow,962212.0
+95.7,4,48,4.36,Piaseczno,920823.0
+76.8,4,21,3.34,Minsk Mazowiecki,793726.0
+62.4,2,49,2.23,Grodzisk Mazowiecki,632785.0
+76.4,1,49,4.12,Pruszkow,676909.0
+86.1,1,48,4.54,Piaseczno,738108.0
+42.7,3,11,0.69,Blonie,622777.0
+61.6,2,20,2.71,Pruszkow,774913.0
+89.6,1,3,1.49,Minsk Mazowiecki,842712.0
+59.9,3,30,0.33,Minsk Mazowiecki,693428.0
+72.2,1,43,3.38,Pruszkow,740070.0
+73.2,3,30,4.33,Pruszkow,804169.0
+47.0,2,22,0.9,Piaseczno,700505.0
+58.5,1,19,4.08,Pruszkow,639696.0
+56.7,3,14,4.28,Blonie,649015.0
+36.7,2,22,4.58,Piaseczno,554092.0
+36.6,4,27,1.4,Grodzisk Mazowiecki,583264.0
+89.1,3,15,4.53,Blonie,822539.0
+52.7,2,36,1.67,Piaseczno,721204.0
+68.7,3,20,2.81,Piaseczno,850000.0
+54.4,2,14,0.35,Minsk Mazowiecki,685627.0
+96.1,4,16,0.32,Piaseczno,1108245.0
+51.9,2,49,3.63,Blonie,527389.0
+62.9,3,36,2.28,Pruszkow,768224.0
+91.7,1,12,1.36,Blonie,896996.0
+89.7,2,18,1.03,Grodzisk Mazowiecki,964394.0
+47.1,4,29,3.38,Piaseczno,691530.0
+87.2,4,44,0.1,Piaseczno,963246.0
+64.8,2,17,4.05,Piaseczno,781113.0
+66.4,2,13,0.49,Piaseczno,848029.0
+43.7,4,35,1.04,Minsk Mazowiecki,606830.0
+40.2,4,35,1.99,Minsk Mazowiecki,581642.0
+82.3,1,19,2.48,Pruszkow,765379.0
+67.3,2,18,1.84,Piaseczno,841174.0
+63.4,2,44,1.67,Grodzisk Mazowiecki,689289.0
+82.4,4,43,4.82,Pruszkow,758222.0
+84.8,1,6,3.24,Piaseczno,916376.0
+45.3,2,43,0.21,Minsk Mazowiecki,593698.0
+74.7,3,3,2.21,Grodzisk Mazowiecki,855419.0
+43.8,1,33,4.39,Pruszkow,574283.0
+83.8,2,1,1.58,Grodzisk Mazowiecki,939267.0
+77.7,2,4,0.56,Piaseczno,988599.0
+97.2,2,9,3.82,Blonie,825373.0
+39.5,2,31,3.07,Grodzisk Mazowiecki,526880.0
+38.7,3,41,2.89,Grodzisk Mazowiecki,558533.0
+53.3,2,40,0.36,Minsk Mazowiecki,632560.0
